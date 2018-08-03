@@ -1,3 +1,4 @@
+import { TeamsComponent } from './teams/teams.component';
 import { DashboardComponent } from './dashboard.component';
 import { DashboardRoutingModule } from './dashboard-routing.module';
 import { NgModule } from '@angular/core';
@@ -10,6 +11,9 @@ import { ReactiveFormsModule } from '@angular/forms';
     DashboardRoutingModule,
     ReactiveFormsModule
   ],
-  declarations: [DashboardComponent]
+  declarations: [
+    DashboardComponent,
+    TeamsComponent
+  ]
 })
 export class DashboardModule { }

@@ -12,13 +12,10 @@ export class DashboardComponent {
   baconIpsum: Observable<string>;
 
   constructor(appService: AppService) {
-    console.log('here');
     this.baconIpsum = appService.getbaconIpsum()
-    .pipe(
-      tap(log => console.log('dashboard component', log))
-    );
-
-    console.log('here', this.baconIpsum);
-   }
+      .pipe(
+        tap(log => console.log('dashboard component: ', log))
+      );
+  }
 
 }
