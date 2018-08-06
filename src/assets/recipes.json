@@ -1,0 +1,1876 @@
+[
+  {
+    "item": "copious meat skewer",
+    "requirements": [
+      "any four different raw meats"
+    ],
+    "minheartsrestored": 13,
+    "maxheartsrestored": 19,
+    "minsellingprice": 160,
+    "maxsellingprice": 290,
+    "notes": "n/a",
+    "footnotes": [
+      "2 raw gourmet meats + 1 raw prime meat + 1 raw meat + 1 raw bird drumstick",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "copious mushroom skewer",
+    "requirements": [
+      "any four different mushrooms"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 19,
+    "minsellingprice": 40,
+    "maxsellingprice": 120,
+    "notes": "n/a",
+    "footnotes": [
+      "1 hearty truffle + 2 big hearty truffles + 1 endura shroom + 1 hylian shroom",
+      "2 big hearty truffles + 1 hearty truffle + endura shroom + 1 stamella/ironshroom/razorshroom"
+    ]
+  },
+  {
+    "item": "copious seafood skewer",
+    "requirements": [
+      "any four different fish"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 16,
+    "minsellingprice": 60,
+    "maxsellingprice": 260,
+    "notes": "n/a",
+    "footnotes": [
+      "1 hearty salmon + 4 different 1-heart fish",
+      "2 sanke carps + 1 staminoka bass + 1 hearty bass + 1 hearty blueshell snail"
+    ]
+  },
+  {
+    "item": "fish and mushroom skewer",
+    "requirements": [
+      "any fish",
+      "any mushroom"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 16,
+    "minsellingprice": 20,
+    "maxsellingprice": 270,
+    "notes": "n/a",
+    "footnotes": [
+      "4 sanke carps + 1 big hearty truffle"
+    ]
+  },
+  {
+    "item": "fish skewer",
+    "requirements": [
+      "any fish"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 10,
+    "minsellingprice": 10,
+    "maxsellingprice": 150,
+    "notes": "n/a",
+    "footnotes": []
+  },
+  {
+    "item": "gourmet spiced meat skewer",
+    "requirements": [
+      "raw gourmet meat/raw whole bird",
+      "goron spice"
+    ],
+    "minheartsrestored": 6,
+    "maxheartsrestored": 24,
+    "minsellingprice": 70,
+    "maxsellingprice": 410,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw gourmet meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "meat skewer",
+    "requirements": [
+      "any raw meat"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": "see footnotes",
+    "minsellingprice": 20,
+    "maxsellingprice": 490,
+    "notes": "n/a",
+    "footnotes": [
+      "5 raw gourmet meats is a full restore",
+      "4 raw gourmet meats + 1 raw prime meat heals 27 hearts, this is the max combo without turning into a full restore",
+      "5 raw prime meats heals 15 hearts",
+      "same as max possible hearts",
+      "prime meat skewers are generally 43% of the sell-value of gourmet meat skewers"
+    ]
+  },
+  {
+    "item": "meat and mushroom skewer",
+    "requirements": [
+      "any meat",
+      "any mushroom"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 26,
+    "minsellingprice": 20,
+    "maxsellingprice": 440,
+    "notes": "n/a",
+    "footnotes": [
+      "4 gourmet meats + 1 endura shroom",
+      "4 raw gourmet meats + 1 big hearty truffle"
+    ]
+  },
+  {
+    "item": "mushroom skewer",
+    "requirements": [
+      "any mushroom"
+    ],
+    "minheartsrestored": 1,
+    "maxheartsrestored": 10,
+    "minsellingprice": 10,
+    "maxsellingprice": 210,
+    "notes": "n/a",
+    "footnotes": [
+      "5 big hearty truffles"
+    ]
+  },
+  {
+    "item": "prime spiced meat skewer",
+    "requirements": [
+      "raw prime meat/raw bird thigh",
+      "goron spice"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 12,
+    "minsellingprice": 40,
+    "maxsellingprice": 180,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw prime meats",
+      "same as max possible hearts",
+      "prime meat skewers are generally 43% of the sell-value of gourmet meat skewers"
+    ]
+  },
+  {
+    "item": "spiced meat skewer",
+    "requirements": [
+      "raw meat/raw bird drumstick",
+      "goron spice"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 8,
+    "minsellingprice": 30,
+    "maxsellingprice": 100,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "seafood skewer",
+    "requirements": [
+      "any crab or snail"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 10,
+    "minsellingprice": 10,
+    "maxsellingprice": 150,
+    "notes": "n/a",
+    "footnotes": []
+  },
+  {
+    "item": "fruit and mushroom mix",
+    "requirements": [
+      "any fruit",
+      "any mushroom"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 26,
+    "minsellingprice": 10,
+    "maxsellingprice": 190,
+    "notes": "n/a",
+    "footnotes": [
+      "4 hearty durians + 1 endura shroom",
+      "4 big hearty truffles + 1 hearty durian"
+    ]
+  },
+  {
+    "item": "gourmet meat and seafood fry",
+    "requirements": [
+      "raw prime meat/raw bird thigh",
+      "any fish"
+    ],
+    "minheartsrestored": 8,
+    "maxheartsrestored": 26,
+    "minsellingprice": 80,
+    "maxsellingprice": 450,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw gourmet meats + any 1-heart fish",
+      "4 raw gourmet meats + 1 sanke carp"
+    ]
+  },
+  {
+    "item": "meat and seafood fry",
+    "requirements": [
+      "raw meat/raw bird drumstick",
+      "any fish"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 10,
+    "minsellingprice": 30,
+    "maxsellingprice": 250,
+    "notes": "n/a",
+    "footnotes": [
+      "4 sanke carps"
+    ]
+  },
+  {
+    "item": "peppered seafood",
+    "requirements": [
+      "any fish",
+      "spicy pepper"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 9,
+    "minsellingprice": 20,
+    "maxsellingprice": 240,
+    "notes": "recipe will always have spicy prefix unless other effect-imparting fish are added",
+    "footnotes": [
+      "4 sanke carps"
+    ]
+  },
+  {
+    "item": "pepper steak",
+    "requirements": [
+      "any meat",
+      "spicy pepper"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 25,
+    "minsellingprice": 20,
+    "maxsellingprice": 100,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw gourmet meats or 4 raw whole birds",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "prime meat and seafood fry",
+    "requirements": [
+      "raw prime meat/raw bird thigh",
+      "any fish"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 11,
+    "minsellingprice": 40,
+    "maxsellingprice": 270,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw prime meats + any 1-heart fish",
+      "4 sanke carps"
+    ]
+  },
+  {
+    "item": "steamed fish",
+    "requirements": [
+      "any fish",
+      "any vegetable"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 24,
+    "minsellingprice": 20,
+    "maxsellingprice": 400,
+    "notes": "n/a",
+    "footnotes": [
+      "1 hearty salmon + 4 endura carrots",
+      "1 sanke carp + 4 endura carrots"
+    ]
+  },
+  {
+    "item": "steamed fruit",
+    "requirements": [
+      "any fruit",
+      "any vegetable"
+    ],
+    "minheartsrestored": 1,
+    "maxheartsrestored": 28,
+    "minsellingprice": 10,
+    "maxsellingprice": 380,
+    "notes": "n/a",
+    "footnotes": [
+      "4 hearty durians + 1 endura carrot",
+      "1 hearty durian + 4 endura carrots"
+    ]
+  },
+  {
+    "item": "steamed meat",
+    "requirements": [
+      "any meat",
+      "any vegetable"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 28,
+    "minsellingprice": 20,
+    "maxsellingprice": 100,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw gourmet meats + 1 endura carrot",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "steamed mushrooms",
+    "requirements": [
+      "any mushroom",
+      "any vegetable"
+    ],
+    "minheartsrestored": 1,
+    "maxheartsrestored": 18,
+    "minsellingprice": 10,
+    "maxsellingprice": 380,
+    "notes": "n/a",
+    "footnotes": [
+      "1 endura shroom + 4 endura carrots",
+      "1 big hearty truffle + 4 endura carrots"
+    ]
+  },
+  {
+    "item": "creamy meat soup",
+    "requirements": [
+      "any raw meat",
+      "any herb",
+      "fresh milk",
+      "rock salt"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 15,
+    "minsellingprice": 40,
+    "maxsellingprice": 240,
+    "notes": "recipe must use safflina, swift violet, mighty thistle, armoranth, blue nightshade or silent princess",
+    "footnotes": [
+      "2 raw gourmet meats + 1 silent princess",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "glazed meat",
+    "requirements": [
+      "any meat",
+      "courser bee honey"
+    ],
+    "minheartsrestored": 6,
+    "maxheartsrestored": 28,
+    "minsellingprice": 40,
+    "maxsellingprice": 420,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw gourmet meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "gourmet meat and rice bowl",
+    "requirements": [
+      "raw gourmet meat/raw whole bird",
+      "hylian rice",
+      "rock salt"
+    ],
+    "minheartsrestored": 9,
+    "maxheartsrestored": 20,
+    "minsellingprice": 90,
+    "maxsellingprice": 310,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw gourmet meats or 3 raw whole birds",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "gourmet meat curry",
+    "requirements": [
+      "raw gourmet meat",
+      "hylian rice",
+      "goron spice"
+    ],
+    "minheartsrestored": 8,
+    "maxheartsrestored": 20,
+    "minsellingprice": 90,
+    "maxsellingprice": 320,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw gourmet meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "gourmet meat stew",
+    "requirements": [
+      "raw gourmet meat",
+      "goat butter",
+      "fresh milk",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 9,
+    "maxheartsrestored": 20,
+    "minsellingprice": 110,
+    "maxsellingprice": 230,
+    "notes": "n/a",
+    "footnotes": [
+      "2 raw gourmet meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "gourmet poultry curry",
+    "requirements": [
+      "raw whole bird",
+      "hylian rice",
+      "goron spice"
+    ],
+    "minheartsrestored": 8,
+    "maxheartsrestored": 20,
+    "minsellingprice": 90,
+    "maxsellingprice": 320,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw whole birds",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "gourmet poultry pilaf",
+    "requirements": [
+      "raw whole bird",
+      "bird egg",
+      "goat butter",
+      "hylian rice"
+    ],
+    "minheartsrestored": 10,
+    "maxheartsrestored": 16,
+    "minsellingprice": 110,
+    "maxsellingprice": 230,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw whole birds",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "meat and rice bowl",
+    "requirements": [
+      "raw meat/raw bird drumstick",
+      "hylian rice",
+      "rock salt"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 8,
+    "minsellingprice": 30,
+    "maxsellingprice": 90,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw meats or 3 raw bird drumsticks",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "meat curry",
+    "requirements": [
+      "raw meat",
+      "hylian rice",
+      "goron spice"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 8,
+    "minsellingprice": 40,
+    "maxsellingprice": 90,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "meat pie",
+    "requirements": [
+      "any raw meat",
+      "tabantha wheat",
+      "goat butter",
+      "rock salt"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 14,
+    "minsellingprice": 40,
+    "maxsellingprice": 220,
+    "notes": "n/a",
+    "footnotes": [
+      "2 raw gourmet meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "meat stew",
+    "requirements": [
+      "raw meat",
+      "goat butter",
+      "fresh milk",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 10,
+    "minsellingprice": 40,
+    "maxsellingprice": 70,
+    "notes": "n/a",
+    "footnotes": [
+      "2 raw meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "meat-stuffed pumpkins",
+    "requirements": [
+      "any raw meat",
+      "fortified pumpkin"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 27,
+    "minsellingprice": 30,
+    "maxsellingprice": 410,
+    "notes": "unless other ingredients are added, this recipe will always have the tough prefix",
+    "footnotes": [
+      "3 raw gourmet meats + 1 big hearty radish or hearty salmon",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "meaty riceballs",
+    "requirements": [
+      "any raw meat",
+      "hylian rice"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 26,
+    "minsellingprice": 20,
+    "maxsellingprice": 400,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw gourmet meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "poultry curry",
+    "requirements": [
+      "raw bird drumstick",
+      "bird egg",
+      "hylian rice",
+      "goat butter"
+    ],
+    "minheartsrestored": 6,
+    "maxheartsrestored": 8,
+    "minsellingprice": 40,
+    "maxsellingprice": 90,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw bird drumsticks",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "poultry pilaf",
+    "requirements": [
+      "raw bird drumstick",
+      "bird egg",
+      "goat butter",
+      "hylian rice"
+    ],
+    "minheartsrestored": 6,
+    "maxheartsrestored": 8,
+    "minsellingprice": 40,
+    "maxsellingprice": 70,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw bird drumsticks",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "prime meat and rice bowl",
+    "requirements": [
+      "raw prime meat/raw bird thigh",
+      "hylian rice",
+      "rock salt"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 11,
+    "minsellingprice": 50,
+    "maxsellingprice": 140,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw prime meats or 3 raw bird thighs",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "prime meat curry",
+    "requirements": [
+      "raw prime meat",
+      "hylian rice",
+      "goron spice"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 11,
+    "minsellingprice": 50,
+    "maxsellingprice": 150,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw prime meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "prime meat stew",
+    "requirements": [
+      "raw prime meat",
+      "goat butter",
+      "fresh milk",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 6,
+    "maxheartsrestored": 12,
+    "minsellingprice": 60,
+    "maxsellingprice": 110,
+    "notes": "n/a",
+    "footnotes": [
+      "2 raw prime meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "prime poultry curry",
+    "requirements": [
+      "raw bird thigh",
+      "hylian rice",
+      "goron spice"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 11,
+    "minsellingprice": 50,
+    "maxsellingprice": 150,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw bird thighs",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "prime poultry pilaf",
+    "requirements": [
+      "raw bird thigh",
+      "bird egg",
+      "goat butter",
+      "hylian rice"
+    ],
+    "minheartsrestored": 7,
+    "maxheartsrestored": 10,
+    "minsellingprice": 60,
+    "maxsellingprice": 110,
+    "notes": "n/a",
+    "footnotes": [
+      "3 raw bird thighs",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "salt-grilled gourmet meat",
+    "requirements": [
+      "raw gourmet meat/raw whole bird",
+      "rock salt"
+    ],
+    "minheartsrestored": 9,
+    "maxheartsrestored": 24,
+    "minsellingprice": 70,
+    "maxsellingprice": 400,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw gourmet meats or 4 raw whole birds",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "salt-grilled meat",
+    "requirements": [
+      "raw meat/raw bird drumstick",
+      "rock salt"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 8,
+    "minsellingprice": 20,
+    "maxsellingprice": 100,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw meats or 4 raw bird drumsticks",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "salt-grilled prime meat",
+    "requirements": [
+      "raw prime meat/raw bird thigh",
+      "rock salt"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 12,
+    "minsellingprice": 30,
+    "maxsellingprice": 180,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw prime meats or 4 raw bird thighs",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "clam chowder",
+    "requirements": [
+      "hearty blueshell snail",
+      "goat butter",
+      "fresh milk",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": "n/a",
+    "maxheartsrestored": 11,
+    "minsellingprice": 60,
+    "maxsellingprice": 130,
+    "notes": "n/a",
+    "footnotes": [
+      "hearty will always override recipe heal-properties unless additional 1-heart fish are added",
+      "1 sanke carp"
+    ]
+  },
+  {
+    "item": "crab omelet with rice",
+    "requirements": [
+      "any crab",
+      "bird egg",
+      "rock salt",
+      "hylian rice"
+    ],
+    "minheartsrestored": 6,
+    "maxheartsrestored": 14,
+    "minsellingprice": 40,
+    "maxsellingprice": 110,
+    "notes": "n/a",
+    "footnotes": [
+      "1 hearty salmon",
+      "1 bright-eyed crab + 1 sanke carp"
+    ]
+  },
+  {
+    "item": "crab stir-fry",
+    "requirements": [
+      "any crab",
+      "goron spice"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 26,
+    "minsellingprice": 30,
+    "maxsellingprice": 130,
+    "notes": "n/a",
+    "footnotes": [
+      "3 hearty salmons + any crab",
+      "3 sanke carps + any crab"
+    ]
+  },
+  {
+    "item": "crab risotto",
+    "requirements": [
+      "any crab",
+      "rock salt",
+      "hylian rice",
+      "goat butter"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 10,
+    "minsellingprice": 50,
+    "maxsellingprice": 110,
+    "notes": "n/a",
+    "footnotes": [
+      "1 hearty blueshell snail",
+      "1 bright-eyed crab + 1 sanke carp"
+    ]
+  },
+  {
+    "item": "creamy seafood soup",
+    "requirements": [
+      "any seafood",
+      "any herb",
+      "rock salt",
+      "fresh milk"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 22,
+    "minsellingprice": 20,
+    "maxsellingprice": 160,
+    "notes": "recipe must use safflina, swift violet, mighty thistle, armoranth, blue nightshade or silent princess",
+    "footnotes": [
+      "2 hearty salmons + 1 silent princess",
+      "2 sanke carps + 1 swift violet or silent princess"
+    ]
+  },
+  {
+    "item": "fish pie",
+    "requirements": [
+      "any seafood",
+      "rock salt",
+      "goat butter",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 6,
+    "minsellingprice": 40,
+    "maxsellingprice": 140,
+    "notes": "n/a",
+    "footnotes": [
+      "2 sanke carps"
+    ]
+  },
+  {
+    "item": "glazed seafood",
+    "requirements": [
+      "any seafood",
+      "courser bee honey"
+    ],
+    "minheartsrestored": 6,
+    "maxheartsrestored": 18,
+    "minsellingprice": 30,
+    "maxsellingprice": 260,
+    "notes": "recipe will always have energizing prefix unless other effect-imparting fish are added",
+    "footnotes": [
+      "4 courser bee honeys + any 1-heart fish",
+      "4 sanke carps"
+    ]
+  },
+  {
+    "item": "porgy meunière",
+    "requirements": [
+      "any porgy",
+      "goat butter",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 6,
+    "minsellingprice": 40,
+    "maxsellingprice": 160,
+    "notes": "n/a",
+    "footnotes": [
+      "2 sanke carps"
+    ]
+  },
+  {
+    "item": "salmon meunière",
+    "requirements": [
+      "hearty salmon",
+      "goat butter",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": "n/a",
+    "maxheartsrestored": 14,
+    "minsellingprice": 40,
+    "maxsellingprice": 160,
+    "notes": "n/a",
+    "footnotes": [
+      "hearty will always override recipe heal-properties unless additional 1-heart fish are added",
+      "2 sanke carps"
+    ]
+  },
+  {
+    "item": "salmon risotto",
+    "requirements": [
+      "hearty salmon",
+      "rock salt",
+      "hylian rice",
+      "goat butter"
+    ],
+    "minheartsrestored": "n/a",
+    "maxheartsrestored": 14,
+    "minsellingprice": 50,
+    "maxsellingprice": 110,
+    "notes": "n/a",
+    "footnotes": [
+      "hearty will always override recipe heal-properties unless additional 1-heart fish are added",
+      "1 sanke carp"
+    ]
+  },
+  {
+    "item": "salt-grilled crab",
+    "requirements": [
+      "any crab",
+      "rock salt"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 26,
+    "minsellingprice": 30,
+    "maxsellingprice": 120,
+    "notes": "n/a",
+    "footnotes": [
+      "3 hearty salmons + any crab",
+      "3 sanke carps + any crab"
+    ]
+  },
+  {
+    "item": "salt-grilled fish",
+    "requirements": [
+      "any fish",
+      "rock salt"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 14,
+    "minsellingprice": 20,
+    "maxsellingprice": 240,
+    "notes": "n/a",
+    "footnotes": [
+      "1 hearty salmon + any four 1-heart fishes",
+      "4 sanke carps"
+    ]
+  },
+  {
+    "item": "seafood meunière",
+    "requirements": [
+      "any seafood",
+      "goat butter",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 6,
+    "minsellingprice": 40,
+    "maxsellingprice": 160,
+    "notes": "adding hearty salmon or porgy will change results",
+    "footnotes": [
+      "2 sanke carps"
+    ]
+  },
+  {
+    "item": "seafood rice balls",
+    "requirements": [
+      "any fish",
+      "hylian rice"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 10,
+    "minsellingprice": 20,
+    "maxsellingprice": 240,
+    "notes": "n/a",
+    "footnotes": [
+      "4 sanke carps"
+    ]
+  },
+  {
+    "item": "seafood curry",
+    "requirements": [
+      "hearty blueshell snail or any porgy",
+      "hylian rice",
+      "goron spice"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 20,
+    "minsellingprice": 40,
+    "maxsellingprice": 180,
+    "notes": "n/a",
+    "footnotes": [
+      "2 hearty salmons + 1 any porgy",
+      "1 hearty blueshell snail + 2 sanke carps"
+    ]
+  },
+  {
+    "item": "seafood fried rice",
+    "requirements": [
+      "hearty blueshell snail or any porgy",
+      "hylian rice",
+      "rock salt"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 18,
+    "minsellingprice": 40,
+    "maxsellingprice": 180,
+    "notes": "n/a",
+    "footnotes": [
+      "1 hearty blueshell snail + 1 hearty salmon + 1 any porgy",
+      "1 hearty blueshell snail + 2 sanke carps"
+    ]
+  },
+  {
+    "item": "seafood paella",
+    "requirements": [
+      "any porgy",
+      "hearty blueshell snail",
+      "rock salt",
+      "goat butter",
+      "hylian rice"
+    ],
+    "minheartsrestored": 12,
+    "maxheartsrestored": 12,
+    "minsellingprice": 100,
+    "maxsellingprice": 100,
+    "notes": "n/a",
+    "footnotes": []
+  },
+  {
+    "item": "carrot stew",
+    "requirements": [
+      "any carrot",
+      "goat butter",
+      "fresh milk",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 15,
+    "minsellingprice": 40,
+    "maxsellingprice": 200,
+    "notes": "n/a",
+    "footnotes": [
+      "adding non-carrot/radish ingredients will override priority and change recipe results",
+      "1 endura carrot + 1 big hearty radish",
+      "2 endura carrots"
+    ]
+  },
+  {
+    "item": "copious fried wild greens",
+    "requirements": [
+      "any four different vegetables"
+    ],
+    "minheartsrestored": "0.25",
+    "maxheartsrestored": 23,
+    "minsellingprice": 10,
+    "maxsellingprice": 240,
+    "notes": "n/a",
+    "footnotes": [
+      "adding meat or fish will override recipe priority",
+      "1 big hearty radish + 1 hearty radish + 2 endura carrots + 1 hyrule herb",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "cream of vegetable soup",
+    "requirements": [
+      "any vegetable",
+      "fresh milk",
+      "rock salt"
+    ],
+    "minheartsrestored": 1,
+    "maxheartsrestored": 3,
+    "minsellingprice": 20,
+    "maxsellingprice": 40,
+    "notes": "recipe must use safflina, swift violet, mighty thistle, armoranth, blue nightshade or silent princess or the recipe will become veggie cream soup",
+    "footnotes": [
+      "silent princess",
+      "silent princess or swift violet"
+    ]
+  },
+  {
+    "item": "creamy heart soup",
+    "requirements": [
+      "any radish",
+      "hydromelon",
+      "voltfruit",
+      "fresh milk"
+    ],
+    "minheartsrestored": 8,
+    "maxheartsrestored": 20,
+    "minsellingprice": 50,
+    "maxsellingprice": 170,
+    "notes": "adding certain items may change results, such as produce simmered fruit",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "curry pilaf",
+    "requirements": [
+      "hylian rice",
+      "goat butter",
+      "goron spice"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 10,
+    "minsellingprice": 30,
+    "maxsellingprice": 140,
+    "notes": "adding meat, vegetables or mushrooms will change the recipe",
+    "footnotes": [
+      "2 courser bee honeys",
+      "2 sanke carps"
+    ]
+  },
+  {
+    "item": "curry rice",
+    "requirements": [
+      "hylian rice",
+      "goron spice"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 14,
+    "minsellingprice": 20,
+    "maxsellingprice": 150,
+    "notes": "adding meat, fish, goat butter, mushrooms or vegetables will change the recipe",
+    "footnotes": [
+      "3 courser bee honeys",
+      "3 hearty durians"
+    ]
+  },
+  {
+    "item": "fried wild greens",
+    "requirements": [
+      "any vegetable"
+    ],
+    "minheartsrestored": 0,
+    "maxheartsrestored": 20,
+    "minsellingprice": 10,
+    "maxsellingprice": 420,
+    "notes": "n/a",
+    "footnotes": [
+      "4 endura carrots",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "glazed veggies",
+    "requirements": [
+      "any vegetable",
+      "courser bee honey"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 20,
+    "minsellingprice": 30,
+    "maxsellingprice": 370,
+    "notes": "n/a",
+    "footnotes": [
+      "any combination of endura carrots and courser bee honey, up to five total",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "herb sauté",
+    "requirements": [
+      "any vegetable",
+      "goron spice"
+    ],
+    "minheartsrestored": 0,
+    "maxheartsrestored": 19,
+    "minsellingprice": 10,
+    "maxsellingprice": 350,
+    "notes": "n/a",
+    "footnotes": [
+      "adding meat or fish will override recipe priority",
+      "1 big hearty radish + 1 hearty radish + 1 endura carrot + 1 hyrule herb",
+      "4 endura carrots"
+    ]
+  },
+  {
+    "item": "pumpkin stew",
+    "requirements": [
+      "fortified pumpkin",
+      "goat butter",
+      "fresh milk",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 12,
+    "minsellingprice": 40,
+    "maxsellingprice": 140,
+    "notes": "due to fortified pumpkins being a defense-modifier, pumpkin stew will always have a tough modifier if no other effect-imparting ingredients are added",
+    "footnotes": [
+      "1 big hearty radish or 1 hearty salmon",
+      "1 raw gourmet meat"
+    ]
+  },
+  {
+    "item": "salt-grilled greens",
+    "requirements": [
+      "any vegetable",
+      "rock salt"
+    ],
+    "minheartsrestored": 0,
+    "maxheartsrestored": 19,
+    "minsellingprice": 10,
+    "maxsellingprice": 350,
+    "notes": "n/a",
+    "footnotes": [
+      "adding meat or fish will override recipe priority",
+      "1 big hearty radish + 1 hearty radish + 1 endura carrot + 1 hyrule herb",
+      "4 endura carrots"
+    ]
+  },
+  {
+    "item": "vegetable curry",
+    "requirements": [
+      "any carrot or pumpkin",
+      "goron spice",
+      "hylian rice"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 22,
+    "minsellingprice": 30,
+    "maxsellingprice": 280,
+    "notes": "adding meat or mushrooms will override recipe priority",
+    "footnotes": [
+      "1 endura carrot + 2 big hearty radishes or hearty salmons",
+      "4 endura carrots"
+    ]
+  },
+  {
+    "item": "vegetable omelet",
+    "requirements": [
+      "any vegetable",
+      "bird egg",
+      "goat butter",
+      "rock salt"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 14,
+    "minsellingprice": 30,
+    "maxsellingprice": 210,
+    "notes": "n/a",
+    "footnotes": [
+      "1 endura carrot + 1 big hearty radish or hearty salmon",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "vegetable risotto",
+    "requirements": [
+      "any carrot or pumpkin",
+      "goat butter",
+      "hylian rice",
+      "rock salt"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 14,
+    "minsellingprice": 30,
+    "maxsellingprice": 190,
+    "notes": "n/a",
+    "footnotes": [
+      "adding non-carrot/radish ingredients will override priority and change recipe results",
+      "1 endura carrot + 1 big hearty radish",
+      "2 endura carrots"
+    ]
+  },
+  {
+    "item": "veggie cream soup",
+    "requirements": [
+      "any pumpkin or carrot",
+      "fresh milk",
+      "rock salt"
+    ],
+    "minheartsrestored": 1,
+    "maxheartsrestored": 21,
+    "minsellingprice": 20,
+    "maxsellingprice": 300,
+    "notes": "n/a",
+    "footnotes": [
+      "1 endura carrot + 2 big hearty radishes",
+      "2 raw gourmet meats + 1 endura carrot"
+    ]
+  },
+  {
+    "item": "veggie rice balls",
+    "requirements": [
+      "any vegetable",
+      "hylian rice"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 25,
+    "minsellingprice": 10,
+    "maxsellingprice": 350,
+    "notes": "n/a",
+    "footnotes": [
+      "3 endura carrots + 1 big hearty radish or hearty salmon",
+      "4 endura carrots"
+    ]
+  },
+  {
+    "item": "cream of mushroom soup",
+    "requirements": [
+      "any mushroom",
+      "any vegetable",
+      "fresh milk",
+      "rock salt"
+    ],
+    "minheartsrestored": 7,
+    "maxheartsrestored": 19,
+    "minsellingprice": 30,
+    "maxsellingprice": 240,
+    "notes": "n/a",
+    "footnotes": [
+      "big hearty truffle + big hearty radish + endura carrot",
+      "1 big hearty truffle + 1 raw gourmet meat + 1 endura carrot"
+    ]
+  },
+  {
+    "item": "fragrant mushroom sauté",
+    "requirements": [
+      "any mushroom",
+      "goron spice"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 8,
+    "minsellingprice": 20,
+    "maxsellingprice": 180,
+    "notes": "n/a",
+    "footnotes": [
+      "4 endura shrooms",
+      "4 big hearty truffles"
+    ]
+  },
+  {
+    "item": "glazed mushrooms",
+    "requirements": [
+      "any mushroom",
+      "courser bee honey"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 28,
+    "minsellingprice": 30,
+    "maxsellingprice": 200,
+    "notes": "n/a",
+    "footnotes": [
+      "4 big hearty truffles",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "mushroom omelet",
+    "requirements": [
+      "any mushroom",
+      "bird egg",
+      "goat butter",
+      "rock salt"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 15,
+    "minsellingprice": 30,
+    "maxsellingprice": 170,
+    "notes": "n/a",
+    "footnotes": [
+      "1 endura shroom + 1 big hearty radish or hearty salmon",
+      "1 big hearty truffle + 1 raw gourmet meat"
+    ]
+  },
+  {
+    "item": "mushroom rice balls",
+    "requirements": [
+      "any mushroom",
+      "hylian rice"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 14,
+    "minsellingprice": 10,
+    "maxsellingprice": 180,
+    "notes": "n/a",
+    "footnotes": [
+      "3 endura shrooms + 1 big hearty radish or hearty salmon",
+      "4 big hearty truffles"
+    ]
+  },
+  {
+    "item": "mushroom risotto",
+    "requirements": [
+      "any mushroom",
+      "goat butter",
+      "hylian rice",
+      "rock salt"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 6,
+    "minsellingprice": 30,
+    "maxsellingprice": 170,
+    "notes": "n/a",
+    "footnotes": [
+      "2 endura shrooms",
+      "1 big hearty truffle + 1 raw gourmet meat"
+    ]
+  },
+  {
+    "item": "salt-grilled mushrooms",
+    "requirements": [
+      "any mushroom",
+      "rock salt"
+    ],
+    "minheartsrestored": 1,
+    "maxheartsrestored": 8,
+    "minsellingprice": 10,
+    "maxsellingprice": 180,
+    "notes": "n/a",
+    "footnotes": [
+      "4 endura shrooms",
+      "4 big hearty truffles"
+    ]
+  },
+  {
+    "item": "copious simmered fruit",
+    "requirements": [
+      "any four different fruits"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 13,
+    "minsellingprice": 40,
+    "maxsellingprice": 100,
+    "notes": "n/a",
+    "footnotes": [
+      "1 1 palm fruit + any three different fruits + 1 big hearty radish or 1 hearty salmon",
+      "1 hearty durian + 1 mighty bananas + 1 fleet-lotus seeds + x2 voltfruit/palm fruit/hydromelon"
+    ]
+  },
+  {
+    "item": "sautéed peppers",
+    "requirements": [
+      "spicy pepper"
+    ],
+    "minheartsrestored": 1,
+    "maxheartsrestored": 5,
+    "minsellingprice": 10,
+    "maxsellingprice": 50,
+    "notes": "provides a maximum of 12:30 minutes of low-level cold resistance (starting with 2:30 for one pepper)",
+    "footnotes": []
+  },
+  {
+    "item": "simmered fruit",
+    "requirements": [
+      "any fruit"
+    ],
+    "minheartsrestored": 1,
+    "maxheartsrestored": 10,
+    "minsellingprice": 10,
+    "maxsellingprice": 210,
+    "notes": "n/a",
+    "footnotes": [
+      "5 palm fruits",
+      "5 hearty durians"
+    ]
+  },
+  {
+    "item": "apple pie",
+    "requirements": [
+      "apple",
+      "goat butter",
+      "cane sugar",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 12,
+    "minsellingprice": 30,
+    "maxsellingprice": 140,
+    "notes": "n/a",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "carrot cake",
+    "requirements": [
+      "any carrot",
+      "goat butter",
+      "cane sugar",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 15,
+    "minsellingprice": 40,
+    "maxsellingprice": 210,
+    "notes": "n/a",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "egg pudding",
+    "requirements": [
+      "bird egg",
+      "fresh milk",
+      "cane sugar"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 15,
+    "minsellingprice": 30,
+    "maxsellingprice": 230,
+    "notes": "n/a",
+    "footnotes": [
+      "1 palm fruit + 1 courser bee honey",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "egg tart",
+    "requirements": [
+      "bird egg",
+      "goat butter",
+      "tabantha wheat",
+      "cane sugar"
+    ],
+    "minheartsrestored": 4,
+    "maxheartsrestored": 10,
+    "minsellingprice": 30,
+    "maxsellingprice": 140,
+    "notes": "n/a",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "fried bananas",
+    "requirements": [
+      "mighty bananas",
+      "cane sugar",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 15,
+    "minsellingprice": 30,
+    "maxsellingprice": 230,
+    "notes": "n/a",
+    "footnotes": [
+      "2 raw gourmet meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "fruit cake",
+    "requirements": [
+      "apple or wildberry",
+      "any other fruit",
+      "cane sugar",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 15,
+    "minsellingprice": 40,
+    "maxsellingprice": 140,
+    "notes": "n/a",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "fruit pie",
+    "requirements": [
+      "any fruit",
+      "goat butter",
+      "cane sugar",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 10,
+    "minsellingprice": 40,
+    "maxsellingprice": 140,
+    "notes": "adding apples or pumpkins will produce apple pie, pumpkin pie, or fruit cake",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "honey candy",
+    "requirements": [
+      "courser bee honey"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 18,
+    "minsellingprice": 20,
+    "maxsellingprice": 140,
+    "notes": "n/a",
+    "footnotes": []
+  },
+  {
+    "item": "honey crepe",
+    "requirements": [
+      "courser bee honey",
+      "tabantha wheat",
+      "bird egg",
+      "cane sugar",
+      "fresh milk"
+    ],
+    "minheartsrestored": 10,
+    "maxheartsrestored": 10,
+    "minsellingprice": 70,
+    "maxsellingprice": 70,
+    "notes": "n/a",
+    "footnotes": [
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "honeyed apple",
+    "requirements": [
+      "apple",
+      "courser bee honey"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 17,
+    "minsellingprice": 30,
+    "maxsellingprice": 120,
+    "notes": "n/a",
+    "footnotes": [
+      "4 courser bee honeys",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "honeyed fruits",
+    "requirements": [
+      "any fruit",
+      "courser bee honey"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 18,
+    "minsellingprice": 30,
+    "maxsellingprice": 120,
+    "notes": "adding apples will instead produce honeyed apple",
+    "footnotes": [
+      "4 courser bee honeys + 1 palm fruit",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "hot buttered apple",
+    "requirements": [
+      "apple",
+      "goat butter"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 5,
+    "minsellingprice": 70,
+    "maxsellingprice": 70,
+    "notes": "n/a",
+    "footnotes": [
+      "4 apples",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "nut cake",
+    "requirements": [
+      "acorn or chickaloo tree nut",
+      "goat butter",
+      "cane sugar",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 12,
+    "minsellingprice": 30,
+    "maxsellingprice": 130,
+    "notes": "n/a",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "plain crepe",
+    "requirements": [
+      "tabantha wheat",
+      "bird egg",
+      "cane sugar",
+      "fresh milk"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 14,
+    "minsellingprice": 30,
+    "maxsellingprice": 140,
+    "notes": "n/a",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "pumpkin pie",
+    "requirements": [
+      "fortified pumpkin",
+      "goat butter",
+      "cane sugar",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 3,
+    "maxheartsrestored": 10,
+    "minsellingprice": 40,
+    "maxsellingprice": 140,
+    "notes": "recipe will always have tough prefix if no other effect-imparting ingredients are added",
+    "footnotes": [
+      "1 courser bee honey",
+      "1 raw gourmet meat"
+    ]
+  },
+  {
+    "item": "wildberry crepe",
+    "requirements": [
+      "wildberry",
+      "tabantha wheat",
+      "bird egg",
+      "cane sugar",
+      "fresh milk"
+    ],
+    "minheartsrestored": 10,
+    "maxheartsrestored": 10,
+    "minsellingprice": 50,
+    "maxsellingprice": 50,
+    "notes": "n/a",
+    "footnotes": []
+  },
+  {
+    "item": "monster soup",
+    "requirements": [
+      "monster extract",
+      "goat butter",
+      "fresh milk",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": 6,
+    "maxheartsrestored": 12,
+    "minsellingprice": 30,
+    "maxsellingprice": 140,
+    "notes": "n/a",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "monster curry",
+    "requirements": [
+      "monster extract",
+      "goron spice",
+      "hylian rice"
+    ],
+    "minheartsrestored": 5,
+    "maxheartsrestored": 17,
+    "minsellingprice": 30,
+    "maxsellingprice": 230,
+    "notes": "n/a",
+    "footnotes": [
+      "2 raw gourmet meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "monster rice balls",
+    "requirements": [
+      "monster extract",
+      "hylian rice",
+      "rock salt"
+    ],
+    "minheartsrestored": "0.25",
+    "maxheartsrestored": 17,
+    "minsellingprice": 20,
+    "maxsellingprice": 220,
+    "notes": "n/a",
+    "footnotes": [
+      "2 raw gourmet meats",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "monster stew",
+    "requirements": [
+      "monster extract",
+      "any meat",
+      "any seafood"
+    ],
+    "minheartsrestored": "0.25",
+    "maxheartsrestored": 20,
+    "minsellingprice": 40,
+    "maxsellingprice": 360,
+    "notes": "n/a",
+    "footnotes": [
+      "4 raw gourmet meats + 1 sanke carp",
+      "4 raw gourmet meats + 1 sanke carp"
+    ]
+  },
+  {
+    "item": "monster cake",
+    "requirements": [
+      "monster extract",
+      "cane sugar",
+      "goat butter",
+      "tabantha wheat"
+    ],
+    "minheartsrestored": "0.25",
+    "maxheartsrestored": 11,
+    "minsellingprice": 30,
+    "maxsellingprice": 140,
+    "notes": "n/a",
+    "footnotes": [
+      "1 raw gourmet meat",
+      "same as max possible hearts"
+    ]
+  },
+  {
+    "item": "dubious food",
+    "requirements": [
+      "monster parts or incompatiable items"
+    ],
+    "minheartsrestored": 1,
+    "maxheartsrestored": 1,
+    "minsellingprice": 2,
+    "maxsellingprice": 2,
+    "notes": "n/a",
+    "footnotes": []
+  },
+  {
+    "item": "fairy tonic",
+    "requirements": [
+      "fairy"
+    ],
+    "minheartsrestored": 7,
+    "maxheartsrestored": "n/a",
+    "minsellingprice": 2,
+    "maxsellingprice": 2,
+    "notes": "four fairies will produce a full-heal fairy tonic",
+    "footnotes": []
+  },
+  {
+    "item": "rock-hard food",
+    "requirements": [
+      "gems or wood"
+    ],
+    "minheartsrestored": "0.25",
+    "maxheartsrestored": "0.25",
+    "minsellingprice": 2,
+    "maxsellingprice": 2,
+    "notes": "n/a",
+    "footnotes": []
+  },
+  {
+    "item": "sautéed nuts",
+    "requirements": [
+      "acorn or chickaloo tree nut"
+    ],
+    "minheartsrestored": "0.5",
+    "maxheartsrestored": 2,
+    "minsellingprice": 8,
+    "maxsellingprice": 50,
+    "notes": "n/a",
+    "footnotes": []
+  },
+  {
+    "item": "wheat bread",
+    "requirements": [
+      "tabantha wheat",
+      "rock salt"
+    ],
+    "minheartsrestored": 2,
+    "maxheartsrestored": 14,
+    "minsellingprice": 10,
+    "maxsellingprice": 270,
+    "notes": "n/a",
+    "footnotes": [
+      "3 endura carrots",
+      "same as max possible hearts"
+    ]
+  }
+]

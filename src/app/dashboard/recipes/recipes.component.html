@@ -1,0 +1,31 @@
+<!-- <div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Fastasy Gods</h5>
+    <h6 class="card-subtitle mb-2 text-muted">Just testing some fantasy gods stuff</h6>
+    <p *ngFor="let food of recipes">
+      <small>{{food.item}} - {{food.maxHeartsRestored}}</small>
+    </p>
+  </div>
+</div> -->
+<div class="card">
+  <table class="table table-sm">
+    <thead>
+      <tr>
+        <th scope="col">Item</th>
+        <th scope="col">min Selling Price</th>
+        <th scope="col">max Selling Price</th>
+        <th scope="col">min hearts</th>
+        <th scope="col">max hearts</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let food of recipes">
+        <td>{{food.item}}</td>
+        <td>{{food.minsellingprice}}</td>
+        <td>{{food.maxsellingprice}}</td>
+        <td>{{food.minheartsrestored}}</td>
+        <td>{{food.maxheartsrestored}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
