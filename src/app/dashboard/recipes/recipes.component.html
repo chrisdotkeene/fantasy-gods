@@ -1,30 +1,21 @@
-<!-- <div class="card">
-  <div class="card-body">
-    <h5 class="card-title">Fastasy Gods</h5>
-    <h6 class="card-subtitle mb-2 text-muted">Just testing some fantasy gods stuff</h6>
-    <p *ngFor="let food of recipes">
-      <small>{{food.item}} - {{food.maxHeartsRestored}}</small>
-    </p>
-  </div>
-</div> -->
 <div class="card">
-  <table class="table table-sm">
+  <table class="table table-striped table-hover">
     <thead>
       <tr>
-        <th scope="col">Item</th>
-        <th scope="col">min Selling Price</th>
-        <th scope="col">max Selling Price</th>
-        <th scope="col">min hearts</th>
-        <th scope="col">max hearts</th>
+        <th scope="col" (click)="sortByCategory('item')">Item</th>
+        <th scope="col" (click)="sortByCategory('minSellingPrice')">min Selling Price</th>
+        <th scope="col" (click)="sortByCategory('maxSellingPrice')">max Selling Price</th>
+        <th scope="col" (click)="sortByCategory('minHearts')">min hearts</th>
+        <th scope="col" (click)="sortByCategory('maxHearts')">max hearts</th>
       </tr>
     </thead>
     <tbody>
       <tr *ngFor="let food of recipes">
         <td>{{food.item}}</td>
-        <td>{{food.minsellingprice}}</td>
-        <td>{{food.maxsellingprice}}</td>
-        <td>{{food.minheartsrestored}}</td>
-        <td>{{food.maxheartsrestored}}</td>
+        <td>{{food.minSellingPrice}}</td>
+        <td>{{food.maxSellingPrice}}</td>
+        <td>{{food.minHeartsRestored}}</td>
+        <td>{{food.maxHeartsRestored}}</td>
       </tr>
     </tbody>
   </table>

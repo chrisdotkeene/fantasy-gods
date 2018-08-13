@@ -1,28 +1,9 @@
-<section class="card">
-  <div class="card-content">
-    <div class="card-title">Employee Details</div>
-    <div class="three-across">
-      <div>
-        <label for="ing1">First ingredient</label>
-        <input id="ing1" name="ing1" [(ngModel)]="ing1" type="text">
-      </div>
-      <div>
-        <label for="ing2">second ingredient</label>
-        <input id="ing2" name="ing2" [(ngModel)]="ing2" type="text">
-      </div>
-      <div>
-        <label for="ing3">third ingredient</label>
-        <input id="ing3" name="ing3" [(ngModel)]="ing3" type="text">
-      </div>
-      <div>
-        <label for="ing4">fourth ingredient</label>
-        <input id="ing4" name="ing4" [(ngModel)]="ing4" type="text">
-      </div>
-    </div>
-    <button class="btn btn-primary" (click)="getRecipesFromIngredients()">Save</button>
+<div class="input-group mb-3 mt-3">
+  <input type="text" class="form-control" placeholder="Search ingredients" (keyup.enter)="getRecipesFromIngredients()" [(ngModel)]="ingredient">
+  <div class="input-group-append">
+    <button type="submit" class="btn btn-primary" (click)="getRecipesFromIngredients()">Search</button>
   </div>
-</section>
+</div>
 <div class="row pt-2">
-  <!-- <app-teams class="col" [bacon]="baconIpsum | async"></app-teams> -->
-  <app-recipes class="col" [recipes]="recipes | async"></app-recipes>
+  <app-recipes class="col" [recipes]="recipes | async" (clicked)="sortBy($event)"></app-recipes>
 </div>
