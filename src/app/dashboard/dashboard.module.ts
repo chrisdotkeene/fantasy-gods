@@ -1,3 +1,4 @@
+import { RecipesEffectsComponent } from './recipes-effects/recipes-effects.component';
 import { RecipeDetailComponent } from './recipe-detail/recipe-detail.component';
 import { DashboardComponent } from './dashboard.component';
 import { DashboardRoutingModule } from './dashboard-routing.module';
@@ -15,7 +16,8 @@ import { RecipesComponent } from './recipes/recipes.component';
   declarations: [
     DashboardComponent,
     RecipesComponent,
-    RecipeDetailComponent
+    RecipeDetailComponent,
+    RecipesEffectsComponent
   ],
 })
 export class DashboardModule { }

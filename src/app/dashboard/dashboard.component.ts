@@ -12,16 +12,21 @@ import { tap, map } from 'rxjs/operators';
 export class DashboardComponent {
   recipes: Observable<Food[]>;
   ingredient: string;
-  direction = 'asc' || 'desc';
+  direction = 'asc';
 
   constructor(private appService: AppService) {
     this.getAllRecipes();
   }
 
   getRecipesFromIngredients() {
-    this.recipes = this.appService.getRecipesFromIngredients(this.ingredient)
+    this.recipes = this.appService.getRecipesFromIngredients(this.ingredient);
+  }
+
+  getAllRecipes() {
+    this.recipes = this.appService.getAllRecipes()
       .pipe(
-        tap(results => console.log('recipes with ing: ', results))
+        tap(recipes => console.log('recipes: ', recipes)),
+        map(res => res)
       );
   }
 
@@ -33,11 +38,4 @@ export class DashboardComponent {
     return this.direction = this.direction === 'asc' ? 'desc' : 'asc';
   }
 
-  getAllRecipes() {
-    this.recipes = this.appService.getAllRecipes()
-      .pipe(
-        tap(recipes => console.log('recipes: ', recipes)),
-        map(res => res)
-      );
-  }
 }

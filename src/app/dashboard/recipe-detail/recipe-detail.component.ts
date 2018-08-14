@@ -17,7 +17,7 @@ export class RecipeDetailComponent {
     console.log('Creating new instance of EmployeeDetailComponent');
     this.id = route.params.pipe(
       pluck<Params, string>('recipeId'),
-      tap(params => console.log('Got new value for params', params)),
+      // tap(params => console.log('Got new value for params', params)),
       switchMap(id => appService.getRecipeDetail(id)),
       tap(params => console.log('Got new value for params2', params))
     );
