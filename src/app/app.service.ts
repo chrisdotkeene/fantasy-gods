@@ -2,6 +2,7 @@ import { Food } from './models/food';
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { Observable } from 'rxjs/internal/Observable';
+import { map } from 'rxjs/operators';
 
 const API_URL = 'http://localhost:3000/data';
 
@@ -31,6 +32,13 @@ export class AppService {
 
   getAllRecipes() {
     return this.http.get<Food[]>(API_URL);
+  }
+
+  getRecipeDetail(recipeId: string): Observable<Food> {
+    return this.http.get<Food>(`${API_URL}?item=${recipeId}`)
+    .pipe(
+      map(res => res['0'])
+    );
   }
 
   getRecipesFromIngredients(ingredient: string): Observable<Food[]> {

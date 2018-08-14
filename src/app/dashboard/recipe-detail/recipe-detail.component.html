@@ -1,0 +1,21 @@
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title">{{(id | async)?.item}}</h5>
+    <h6 class="card-subtitle mb-2 text-muted">Requirements</h6>
+    <p class="card-text">{{(id | async)?.requirements}}</p>
+    <h6 class="card-subtitle mb-2 text-muted">Notes</h6>
+    <p class="card-text">{{(id | async)?.footNotes}}</p>
+    <h6 class="card-subtitle mb-2 text-muted">Maximum selling price</h6>
+    <p class="card-text">${{(id | async)?.maxSellingPrice}}</p>
+    <h6 class="card-subtitle mb-2 text-muted">Minimum selling price</h6>
+    <p class="card-text">${{(id | async)?.minSellingPrice}}</p>
+    <h6 class="card-subtitle mb-2 text-muted">Minimum hearts restored</h6>
+    <p class="card-text">{{(id | async)?.minHeartsRestored}}</p>
+    <h6 class="card-subtitle mb-2 text-muted">Maximum hearts restored</h6>
+    <p class="card-text">{{(id | async)?.maxHeartsRestored}}</p>
+    <h6 *ngIf="(id | async).notes !== 'N/A'" class="card-subtitle mb-2 text-muted">More notes</h6>
+    <p *ngIf="(id | async).notes !== 'N/A'" class="card-text">${{(id | async)?.notes}}</p>
+    <a href="/home" class="card-link">back</a>
+    <!-- <a href="#" class="card-link">Another link</a> -->
+  </div>
+</div>

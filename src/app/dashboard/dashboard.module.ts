@@ -1,4 +1,4 @@
-import { SearchRecipesComponent } from './search-recipes/search-recipes.component';
+import { RecipeDetailComponent } from './recipe-detail/recipe-detail.component';
 import { DashboardComponent } from './dashboard.component';
 import { DashboardRoutingModule } from './dashboard-routing.module';
 import { NgModule } from '@angular/core';
@@ -15,7 +15,7 @@ import { RecipesComponent } from './recipes/recipes.component';
   declarations: [
     DashboardComponent,
     RecipesComponent,
-    SearchRecipesComponent
+    RecipeDetailComponent
   ],
 })
 export class DashboardModule { }

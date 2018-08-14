@@ -11,7 +11,7 @@
     </thead>
     <tbody>
       <tr *ngFor="let food of recipes">
-        <td>{{food.item}}</td>
+        <td><a [routerLink]="food.item">{{food.item}}</a></td>
         <td>{{food.minSellingPrice}}</td>
         <td>{{food.maxSellingPrice}}</td>
         <td>{{food.minHeartsRestored}}</td>
