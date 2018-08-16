@@ -1,0 +1,1894 @@
+{
+    "data": [
+        {
+            "name": "Tough Elixir",
+            "image": "https://dl.airtable.com/JtPShAO4TQS3JtMsg87E_40px-BotW_Tough_Elixir_Icon.png%3Fversion%3D53aabd7829fcba3fc04ea19cd05e31ff",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Grants a X-level toughness effect,  which fortifies your bones to strengthen your defense. Best to use before facing off against hard-hitting enemies.",
+            "ingredients": "Rugged Rhino Beetle",
+            "hp": "",
+            "effect": "Tough"
+        },
+        {
+            "name": "Spicy Elixir",
+            "image": "https://dl.airtable.com/ZITkR30DReiIo5QvIhwJ_40px-BotW_Spicy_Elixir_Icon.png%3Fversion%3Daf15fddec6e5b16a26f93cc47218ca2c",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Warms your body from its core,  increasing your resistance to cold environments. Very useful in the snow-covered mountains.",
+            "ingredients": "Summerwing Butterfly, Warm Darner",
+            "hp": "",
+            "effect": "Spicy"
+        },
+        {
+            "name": "Sneaky Elixir",
+            "image": "https://dl.airtable.com/W83qdssuQ6eIcG24MbT6_40px-BotW_Sneaky_Elixir_Icon.png%3Fversion%3D225e9622dc6c0294d4dc5d526a9d2ce2",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Grants a X-level stealth effect,  which calms the nerves and silences footfalls. Allows you to move about undetected by monsters and animals.",
+            "ingredients": "Sunset Firefly",
+            "hp": "",
+            "effect": "Sneaky"
+        },
+        {
+            "name": "Mighty Elixir",
+            "image": "https://dl.airtable.com/e6UmO2VKRGa6ma9WZjpD_40px-BotW_Mighty_Elixir_Icon.png%3Fversion%3D1c60335ca608687aa4c1c5cb5d9249ca",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "",
+            "ingredients": "Bladed Rhino Beetle",
+            "hp": "",
+            "effect": "Mighty"
+        },
+        {
+            "name": "Hearty Elixir",
+            "image": "https://dl.airtable.com/1GH2tpbQVOe28Mwc8kUh_40px-BotW_Hearty_Elixir_Icon.png%3Fversion%3D224ae6bed4bccab569618664b1de6683",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Restores you to full health and increases your maximum hearts. The additional hearts are lost as you take damage.",
+            "ingredients": "Hearty Lizard",
+            "hp": "",
+            "effect": "Hearty"
+        },
+        {
+            "name": "Hasty Elixir",
+            "image": "https://dl.airtable.com/w5EnOlSdQreW8MfSYhZ4_40px-BotW_Hasty_Elixir_Icon.png%3Fversion%3De81ce2f51e300cb8a475c57418c8d405",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Grants a X-level haste effect,  which boosts your movement speed while running,  swimming,  or climbing.",
+            "ingredients": "Hightail Lizard, Hot-Footed Frog",
+            "hp": "",
+            "effect": "Hasty"
+        },
+        {
+            "name": "Fireproof Elixir",
+            "image": "https://dl.airtable.com/vBPHk3LkRJKA5BEM9s86_40px-BotW_Fireproof_Elixir.png%3Fversion%3D58d12074b3727cc410521baed978aabf",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Grants a fireproof effect,  which prevents your body from catching fire. Be sure to pack this when venturing out to explore Death Mountain.",
+            "ingredients": "Fireproof Lizard, Smotherwing Butterfly",
+            "hp": "",
+            "effect": "Fireproof"
+        },
+        {
+            "name": "Energizing Elixir",
+            "image": "https://dl.airtable.com/DA8f3o68Sv2o345RlkfQ_40px-BotW_Energizing_Elixir_Icon.png%3Fversion%3D6497b3216cb9c19ec75d24473e5e8fac",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Restores your Stamina,  which is used when performing physical actions such as climbing walls and swimming.",
+            "ingredients": "Restless Cricket, Energetic Rhino Beetle",
+            "hp": "",
+            "effect": "Energizing"
+        },
+        {
+            "name": "Enduring Elixir",
+            "image": "https://dl.airtable.com/sheeptrsRhSPiypTdro0_40px-BotW_Enduring_Elixir_Icon.png%3Fversion%3Da9dd97ad7e3a3e2221f701567c87e9da",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Restores stamina and temporarily extends your Stamina Wheel. The additional stamina will disappear as it's used.",
+            "ingredients": "Tireless Frog",
+            "hp": "",
+            "effect": "Enduring"
+        },
+        {
+            "name": "Electro Elixir",
+            "image": "https://dl.airtable.com/o6tTUQRTQOiiHs71PIED_40px-BotW_Electro_Elixir_Icon.png%3Fversion%3D99d806fd2f40fd44d14f23ec40255230",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Grants a X-level resistance to electricity. Useful against enemies with electrical attacks.",
+            "ingredients": "Thunderwing Butterfly, Electric Darner",
+            "hp": "",
+            "effect": "Electro"
+        },
+        {
+            "name": "Frozen Bass",
+            "image": "https://dl.airtable.com/6zo33SiiQC6seaioYsw5_40px-BotW_Frozen_Bass_Icon.png%3Fversion%3D158d46f0f9f41402871e35c470b40454",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "That's one cold fish. Eating it won't restore many hearts,  but it will lower your body temperature a bit.",
+            "ingredients": "Hyrule Bass, Staminoka Bass",
+            "hp": 2,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Frozen Hearty Bass",
+            "image": "https://dl.airtable.com/hGmQWyVTgiJ9DVmzaRVH_40px-BotW_Frozen_Hearty_Bass_Icon.png%3Fversion%3D7f2d2b2418d407bba3311cfda038a710",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "This hearty bass has been frozen by cool air. Eating it will be a challenge because it's frozen solid,  but if you persevere,  it will temporarily increase your heat resistance.",
+            "ingredients": "Hearty Bass",
+            "hp": 2,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Frozen Bird Drumstick",
+            "image": "https://dl.airtable.com/EtBkihR3TviQWXPFfkvK_40px-BotW_Frozen_Bird_Drumstick_Icon.png%3Fversion%3Da956cb25412589cf5688869f85d7178e",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "It's as hard as a rock but is supposedly edible. It restores a small number of hearts and has a cooling effect.",
+            "ingredients": "Raw Bird Drumstick",
+            "hp": 1,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Frozen Bird Thigh",
+            "image": "https://dl.airtable.com/PJb4uZ84SxeVevru0o2K_40px-BotW_Frozen_Bird_Thigh_Icon.png%3Fversion%3D802e8a5798467c023960d3f01efe3b92",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "High-quality,  frozen bird meat. It's so solid it looks like it could be used as a weapon. Eating it will restore some hearts and cool you down,  but don't break your teeth on it.",
+            "ingredients": "Raw Bird Thigh",
+            "hp": 1,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Frozen Whole Bird",
+            "image": "https://dl.airtable.com/e5NQdZGcQ663jCkxEL0R_40px-BotW_Frozen_Whole_Bird_Icon.png%3Fversion%3D62b0ece4618c09a515d023fcd685681d",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "This raw whole bird may have been frozen solid,  but its flavor remains intact. Eating it will provide a temporary boost to your heat resistance.",
+            "ingredients": "Raw Whole Bird",
+            "hp": 3,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Frozen Carp",
+            "image": "https://dl.airtable.com/thbAlUnYQOOJTcyDZfU2_40px-BotW_Frozen_Carp_Icon.png%3Fversion%3Ddb0dad455170d27eae953ada9c72b395",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "The crunchy,  icy texture of this chilled carp is quite the delicacy. Eating it will temporarily increase your heat resistance.",
+            "ingredients": "Sanke Carp, Armored Carp",
+            "hp": 1,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Frozen Crab",
+            "image": "https://dl.airtable.com/eOb5u4j2Qgi6L1LJ4oJI_40px-BotW_Frozen_Crab_Icon.png%3Fversion%3D6e4966c9a8999d6818b7da05a949bd15",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "Doesn't provide as much companionship as an unfrozen crab,  but it won't spoil during your travels. Eat it to gain a temporary boost to your heat resistance.",
+            "ingredients": "Ironshell Crab, Bright-Eyed Crab, Razorclaw Crab",
+            "hp": 2,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Frozen River Snail",
+            "image": "https://dl.airtable.com/eCd0eUCEQEGHgHXv0q6r_40px-BotW_Frozen_River_Snail_Icon.png%3Fversion%3D7453a4f87f25d571ff3f6865b4c58b63",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "The distinct glow of this sneaky river snail has diminished after it's been frozen,  but eating it will provide a temporary increase to your heat resistance.",
+            "ingredients": "Sneaky River Snail",
+            "hp": 1,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Frozen Trout",
+            "image": "https://dl.airtable.com/qzfnd9JxT1a0JhwKKEpu_40px-BotW_Frozen_Trout_Icon.png%3Fversion%3Da81f1e069aff4e9700ee70436c5ae570",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "Being frozen has condensed the taste of fish inside this trout's body. Eating it will provide a temporary boost to your heat resistance.",
+            "ingredients": "Voltfin Trout, Chillfin Trout, Sizzlefin Trout, Stealthfin Trout",
+            "hp": 1,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Icy Hearty Blueshell Snail",
+            "image": "https://dl.airtable.com/vS4ZkGQPO9KreIu5eS6g_40px-BotW_Icy_Hearty_Blueshell_Snail_Icon.png%3Fversion%3D0dd9546118149ef0c9f8a262f9aa2c5b",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "It takes a skilled chef to get the meat out of this frozen hearty blueshell snail. Eating this will provide a temporary increase to your heat resistance.",
+            "ingredients": "Hearty Blueshell Snail",
+            "hp": 3,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Icy Meat",
+            "image": "https://dl.airtable.com/SOnQdqKETNWlVaKS1uBX_40px-BotW_Icy_Meat_Icon.png%3Fversion%3D228b9ed677be1b449a2766f29c6900e3",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "A frozen slab of animal meat. If you can manage to chew it up and swallow it,  you'll restore some hearts and lower your body temperature.",
+            "ingredients": "Raw Meat",
+            "hp": 1,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Icy Prime Meat",
+            "image": "https://dl.airtable.com/ejaFeIJNQFevfAuhy9uv_40px-BotW_Icy_Prime_Meat_Icon.png%3Fversion%3Da2955c4e186e01cea32203db9602531c",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "High-quality,  frozen animal meat. Doesn't restore many hearts,  but it can lower your body temperature.",
+            "ingredients": "Raw Prime Meat",
+            "hp": 1.5,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Icy Gourmet Meat",
+            "image": "https://dl.airtable.com/9mdGS03eSGWnpWfDXj0L_40px-BotW_Icy_Gourmet_Meat_Icon.png%3Fversion%3De50685b54772f1604fd32372e6de1fcd",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "This raw gourmet meat has been frozen for easy traveling. It's kept its flavor through the freezing process. Eating it as is will provide a temporary boost to your heat resistance.",
+            "ingredients": "Raw Gourmet Meat",
+            "hp": 3,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Chilly Elixir",
+            "image": "https://dl.airtable.com/fKW41QWRsqyt64oN1UiV_40px-BotW_Chilly_Elixir_Icon.png%3Fversion%3Defbf15cb2db90242aa671c7793a37352",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "Grants a X-level cooling effect,  raising your body's resistance to heat. Crucial for long journeys through the desert.",
+            "ingredients": "Winterwing Butterfly, Cold Darner",
+            "hp": "",
+            "effect": "Chilly"
+        },
+        {
+            "name": "Frozen Hearty Salmon",
+            "image": "https://dl.airtable.com/qzfnd9JxT1a0JhwKKEpu_40px-BotW_Frozen_Trout_Icon.png%3Fversion%3Da81f1e069aff4e9700ee70436c5ae570",
+            "class": "Food",
+            "subclass": "Frozen",
+            "description": "This salmon doesn't taste quite as fishy because the excess fat has been removed. It's exceptionally cold,  so eating it provides a temporary boost to heat resistance.",
+            "ingredients": "Hearty Salmon",
+            "hp": 1,
+            "effect": "Chilly"
+        },
+        {
+            "name": "Apple Pie",
+            "image": "https://dl.airtable.com/ajAfUJy8TFG1SzBgoYFG_40px-BotW_Apple_Pie_Icon.png%3Fversion%3D70ae820b56bb20e8bedf830c2d2ca4f1",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The crispy,  flaky pie crust and sweet apples are a match made in heaven.",
+            "ingredients": "Tabantha Wheat, Cane Sugar, Goat Butter, Apple",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Carrot Cake",
+            "image": "https://dl.airtable.com/vS6iKzb7SE256BChvXcl_40px-BotW_Carrot_Cake_Icon.png%3Fversion%3D713035acbb660f906a053e164ae8a271",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Even those who don't like carrots tend to enjoy the mild sweetness of this cake.",
+            "ingredients": "Tabantha Wheat, Cane Sugar, Goat Butter, Swift Carrot, Endura Carrot",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Carrot Stew",
+            "image": "https://dl.airtable.com/6RU3HcFUT7uZq73qbULD_40px-BotW_Carrot_Stew_Icon.png%3Fversion%3D9a9a9f8488608cc51abf01316cd41c52",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This simple stew sat simmering for a long time to bring out the sweetness of the carrots.",
+            "ingredients": "Fresh Milk, Goat Butter, Tabantha Wheat, Swift Carrot, Endura Carrot",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Crab Omelet with Rice",
+            "image": "https://dl.airtable.com/eGkRmdmbRP2IVVxghdjZ_40px-BotW_Crab_Omelet_with_Rice_Icon.png%3Fversion%3D354720c5d28e710f1c02d9d5f5a4679b",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The fluffy crab legs pair perfectly with the rice for a truly scrumptious dish.",
+            "ingredients": "Hylian Rice, Bird Egg, Rock Salt, Ironshell Crab, Razorclaw Crab, Bright-Eyed Crab",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Crab Risotto",
+            "image": "https://dl.airtable.com/jY4drokPRlKsWnACtwWv_40px-BotW_Crab_Risotto_Icon.png%3Fversion%3D4608dbaea43b51dac62842a2765ded00",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "An everyday stable of seaside villages,  the secret to its delicious flavor lies in crab fat.",
+            "ingredients": "Hylian Rice, Goat Butter, Rock Salt, Ironshell Crab, Razorclaw Crab, Bright-Eyed Crab",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Crab Stir-Fry",
+            "image": "https://dl.airtable.com/Yk09nG0ISYOODR2Xptfl_40px-BotW_Crab_Stir-Fry_Icon.png%3Fversion%3Ddf1236c13ee90e040fc34be067d68695",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The Goron spice used in preparing this crab pairs perfectly with the flavor of the meat.",
+            "ingredients": "Goron Spice, Ironshell Crab, Razorclaw Crab, Bright-Eyed Crab",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Cream of Mushroom Soup",
+            "image": "https://dl.airtable.com/ajSMjpdSxKou0Gs7Drjw_40px-BotW_Cream_of_Mushroom_Soup_Icon.png%3Fversion%3Ddf86c6187dc815989c009924ca4d1321",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The creamy mushroom and vegetable soup is so chunky it eats like a meal!",
+            "ingredients": "Any Mushroom, Any Vegetable, Any Flower or Herb, Fresh Milk, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Cream of Vegetable Soup",
+            "image": "https://dl.airtable.com/jrhj4oNRRJyOO7yzfR0M_40px-BotW_Cream_of_Vegetable_Soup_Icon.png%3Fversion%3Dff833bf67556c0a6fb9eb51df8d57de6",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Made by simmering vegetables in milk,  this healthy dish is as simple as the ingredients.",
+            "ingredients": "Any Vegetable (except Carrot or Pumpkin, Any Flower or Herb, Fresh Milk, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Creamy Heart Soup",
+            "image": "https://dl.airtable.com/vAScvq3xQhuKDl3j0wzL_40px-BotW_Creamy_Heart_Soup_Icon.png%3Fversion%3Ddf81132e53bb6e698ccecb24b36445c6",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Enjoying this sweet soup with another person will bring you both closer together.",
+            "ingredients": "Hydromelon, Voltfruit, Fresh Milk, Hearty Radish, Big Hearty Radish",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Creamy Meat Soup",
+            "image": "https://dl.airtable.com/XzWjAnzuRcCUdBCcTZZ7_40px-BotW_Creamy_Meat_Soup_Icon.png%3Fversion%3D04b41b0927a22c68a9b5d6e6883923d8",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This nutritious soup contains serious portions of lightly-braised meat and many vegetables.",
+            "ingredients": "Any Meat, Any Vegetable, Any Flower or Herb, Fresh Milk, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Creamy Seafood Soup",
+            "image": "https://dl.airtable.com/DxohzhCmSwig41Eja50s_40px-BotW_Creamy_Seafood_Soup_Icon.png%3Fversion%3D740d1081107f67efd3ba435b053db9b7",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Thuck-cut chunks of seafood and stock provides a satisfying savoriness.",
+            "ingredients": "Any Seafood, Any Vegetable, Any Flower or Herb, Fresh Milk, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Curry Pilaf",
+            "image": "https://dl.airtable.com/r2lzMD4mSKevgz3IF918_40px-BotW_Curry_Pilaf_Icon.png%3Fversion%3Dff750545d6a26818eed19440b0992ed7",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The goron spice used in this pilaf has given it a rich,  spicy aroma.",
+            "ingredients": "Hylian Rice, Bird Egg, Goat Butter, Goron Spice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Curry Rice",
+            "image": "https://dl.airtable.com/DVTuLO7OQ0iemuImuHSH_40px-BotW_Curry_Rice_Icon.png%3Fversion%3Dffaaf0629af6895e0f47ef347a59b47f",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A favorite all over Hyrule,  this simple dish has a flavor you just won't get tired of.",
+            "ingredients": "Hylian Rice, Goron Spice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Dubious Food",
+            "image": "https://dl.airtable.com/Hh4Zt0AnTlujmIpoZNRD_40px-BotW_Dubious_Food_Icon.png%3Fversion%3D616ff72a32491eee2f3bc0425496a172",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "It's too gross to even look at. A bizarre smell issues forth from this heap. Eating it won't hurt you though...probably.",
+            "ingredients": "Any Monster Part, Wood, Bladed Rhino Beetle, Rugged Rhino Beetle, Energetic Rhino Beetle, Cold Darner, Warm Darner, Electric Darner, Hearty Lizard, Hightail Lizard, Fireproof Lizard, Tireless Frog, Hot-Footed Frog, Restless Cricket, Summerwing Butterfly, Winterwing Butterfly, Smotherwing Butterfly, Thunderwing Butterfly, Sunset Firefly",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Egg Pudding",
+            "image": "https://dl.airtable.com/9R2999clQQWHmwCVQ1yP_40px-BotW_Egg_Pudding_Icon.png%3Fversion%3Db365e920f61ed5660dc265d061f98a05",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Made by cooking eggs and milk in a special mold,  its soft texture melts in your mouth.",
+            "ingredients": "Fresh Milk, Bird Egg, Cane Sugar",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Egg Tart",
+            "image": "https://dl.airtable.com/NLdkScSWR4C1t0oupNPE_40px-BotW_Egg_Tart_Icon.png%3Fversion%3D007a5e74b7fba133f99e6ae670315d39",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "You'll know this simple dessert is done baking when it smells just delightful.",
+            "ingredients": "Tabantha Wheat, Bird Egg, Cane Sugar, Goat Butter",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Energizing Glazed Meat",
+            "image": "https://dl.airtable.com/16h8T0IoQzuP1mrICsEt_40px-BotW_Glazed_Meat_Icon.png%3Fversion%3D6853bbe4025a53437926382252b14be9",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The sweetness of the honey permeates the meat,  giving it a complex taste profile.",
+            "ingredients": "Courser Bee Honey, Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Energizing Honey Candy",
+            "image": "https://dl.airtable.com/HVIqzTEESBOIIoWXJSgE_40px-BotW_Honey_Candy_Icon.png%3Fversion%3D5fdb6cf9c8dea5caad1dee4c044f7152",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A natural sweet,  brimming with nutrition and made by stewing fresh honey.",
+            "ingredients": "Courser Bee Honey",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Energizing Honeyed Apple",
+            "image": "https://dl.airtable.com/DktVCFvVQ5uiIItCE7Pu_40px-BotW_Honeyed_Apple_Icon.png%3Fversion%3D63645d15c59e85ebf8beade6e7672fd4",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A juicy sweet-and-sour dish combining newly ripened apples with honey.",
+            "ingredients": "Apple, Courser Bee Honey",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fish Skewer",
+            "image": "https://dl.airtable.com/b5h2qeOpQCiJ4BvGbzF6_40px-BotW_Fish_Skewer_Icon.png%3Fversion%3D225f6697bc4c1587b33ff1fae25939e4",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A simple dish made by cooking chunks of fresh fish on a skewer.",
+            "ingredients": "Armored Carp, Armored Porgy, Voltfin Trout, Chillfin Trout, Sizzlefin Trout, Stealthfin Trout, Hearty Bass, Hyrule Bass, Staminoka Bass, Hearty Salmon, Sanke Carp, Mighty Carp",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Copious Fish Skewers",
+            "image": "https://dl.airtable.com/kByTKS5Toukb6LCNjHMQ_40px-BotW_Copious_Fish_Skewers_Icon.png%3Fversion%3D7d84323c6f3ceaba43f1a54b4e893f87",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "It's just a whole heap of stuff shoved on to a skewer,  but it's still a pretty tasty dish.",
+            "ingredients": "Any 4 different Seafood",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fish and Mushroom Skewer",
+            "image": "https://dl.airtable.com/W5k2mTmqT2mc2iWrsQGs_40px-BotW_Fish_and_Mushroom_Skewer_Icon.png%3Fversion%3D950784e90165ed2438f01113197cf2f5",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A simple dish made by cooking skewered,  fresh fish alongside fragrant mushrooms.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle, Voltfin Trout, Chillfin Trout, Sizzlefin Trout, Stealthfin Trout, Sanke Carp, Mighty Carp, Armored Carp, Hearty Bass, Hyrule Bass, Staminoka Bass, Hearty Salmon",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fish Pie",
+            "image": "https://dl.airtable.com/x6N8F63QTOy1y0O2dAKP_40px-BotW_Fish_Pie_Icon.png%3Fversion%3D89fd525e611fa0c440be18b87e7bc4a5",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A mainstay in any fisherman's home,  the crisp crust pairs well with the fishy flavor.",
+            "ingredients": "Tabantha Wheat, Goat Butter, Rock Salt, Any Seafood",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fragrant Mushroom Sauté",
+            "image": "https://dl.airtable.com/pWMkXXpITmegwiGuhwFh_40px-BotW_Fragrant_Mushroom_Saut%25C3%25A9_Icon.png%3Fversion%3D53bfc99a5640354b744a64b2cf5ae47f",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The fragrant aroma of this sautéed spice and mushroom dish makes your mouth water.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle, Goron Spice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fried Bananas",
+            "image": "https://dl.airtable.com/rDCP0uYCRVOZLPRI6OZl_40px-BotW_Fried_Bananas_Icon.png%3Fversion%3D18df3e6ad13b0e43afb03d43ce9a94a1",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Children love fried mighty bananas. The trick is frying them over very high heat.",
+            "ingredients": "Mighty Bananas, Tabantha Wheat, Cane Sugar",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fried Egg and Rice",
+            "image": "https://dl.airtable.com/SNMrt3tSjiSeFP1kNOD6_40px-BotW_Fried_Egg_and_Rice_Icon.png%3Fversion%3D5768fb880beee23124edc9ac24a4871b",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The soft egg yolk pairs well with the fresh rice in this simple dish.",
+            "ingredients": "Hylian Rice, Bird Egg",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fried Wild Greens",
+            "image": "https://dl.airtable.com/UQHUVbibSu6S8HYMmL2y_40px-BotW_Fried_Wild_Greens_Icon.png%3Fversion%3Da1ac51dcf056bac31ed83659dd11bb9b",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A basic vegetable dish made by sautéing fresh wild plants.",
+            "ingredients": "Any Vegetable, Any Flower or Herb",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Copious Fried Wild Greens",
+            "image": "https://dl.airtable.com/zgE6xTTTvqM7DctPEYQZ_40px-BotW_Copious_Fried_Wild_Greens_Icon.png%3Fversion%3Da22d34e29e2a17376c279e547869e18f",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A healthy dish made by cooking mixed greens over a strong flame.",
+            "ingredients": "Any 4 different Vegetables,  Herbs or Flowers",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fruit and Mushroom Mix",
+            "image": "https://dl.airtable.com/rRgv54QoCHD9VlSKMmAJ_40px-BotW_Fruit_and_Mushroom_Mix_Icon.png%3Fversion%3Ddcedc45108982967d154c8cf1ae1a281",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This dish contrasts the sweetness of fruit with the savoriness of mushrooms.",
+            "ingredients": "Apple, Fleet-Lotus Seeds, Hearty Durian, Hydromelon, Mighty Bananas, Palm Fruit, Spicy Pepper, Voltfruit, Wildberry",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fruit Pie",
+            "image": "https://dl.airtable.com/CFGgYNTQEmkbWkVTv7uG_40px-BotW_Fruit_Pie_Icon.png%3Fversion%3D7f165bacbcef5fb25933480901e2e2a5",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A celebration isn't a celebration until this fruit-filled crust hits the table!",
+            "ingredients": "Tabantha Wheat, Cane Sugar, Goat Butter, Fleet-Lotus Seeds, Hearty Durian, Hydromelon, Mighty Bananas, Palm Fruit, Spicy Pepper, Voltfruit, Wildberry",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Fruitcake",
+            "image": "https://dl.airtable.com/JgXefnvXSYqiZEG5i3er_40px-BotW_Fruitcake_Icon.png%3Fversion%3D90191ae1c5d5bdfffb5d850809bf04fb",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Making ample use of fruits found all over Hyrule,  this cake is a must for celebrations.",
+            "ingredients": "Apple, Wildberry, Tabantha Wheat, Cane Sugar, Fleet-Lotus Seeds, Hearty Durian, Hydromelon, Mighty Bananas, Voltfruit, Palm Fruit, Spicy Pepper",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Glazed Mushrooms",
+            "image": "https://dl.airtable.com/8jBZdsNTgWNy5fRGbyiY_40px-BotW_Glazed_Mushrooms_Icon.png%3Fversion%3D0bad3382c2a9dfd710c612225910e279",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The honey in this mushroom dish gives it a sweet,  complex taste and a savory finish.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle, Courser Bee Honey",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Glazed Seafood",
+            "image": "https://dl.airtable.com/FAHSke0R1iQnNB35vkCG_40px-BotW_Glazed_Seafood_Icon.png%3Fversion%3D88c75444a77adb592c3132b31a0b8001",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A seafood dish that you can actually wolf down whole!",
+            "ingredients": "Courser Bee Honey, Any Seafood",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Glazed Veggies",
+            "image": "https://dl.airtable.com/gEWowLGnQESUNJZSVPgR_40px-BotW_Glazed_Veggies_Icon.png%3Fversion%3Dc5a12f182eddb95c44992be37fad8166",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Don't like the taste of vegetables? Simply sauté them in honey for a salty-sweet flavor!",
+            "ingredients": "Courser Bee Honey, Any Vegetable, Any Flower or Herb",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Gourmet Meat and Rice Bowl",
+            "image": "https://dl.airtable.com/j3OwskBTIS2Bk8kMS5WQ_40px-BotW_Gourmet_Meat_and_Rice_Bowl_Icon.png%3Fversion%3D3213097e078677540ae82d77a18f2a95",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Only the most carefully selected cuts of high-quality meats go into this dish.",
+            "ingredients": "Raw Gourmet Meat, Hylian Rice, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Gourmet Meat and Seafood Fry",
+            "image": "https://dl.airtable.com/0m7mQl99Tf6xPwkjtH3f_40px-BotW_Gourmet_Meat_and_Seafood_Fry_Icon.png%3Fversion%3D93988317c50cb0acb5567dad431ba05e",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A marriage of the choicest cuts of meat and seafood. As delicious as it is filling!",
+            "ingredients": "Any Seafood, Raw Gourmet Meat",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Gourmet Meat Curry",
+            "image": "https://dl.airtable.com/xPwfQUouQIuEzt5Dsjv2_40px-BotW_Gourmet_Meat_Curry_Icon.png%3Fversion%3D3e71f6a50ac1465f9bc4018cb6f2dfb8",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The high-quality meat used in this prized dish satisfies meat and curry lovers alike.",
+            "ingredients": "Raw Gourmet Meat, Goron Spice, Hylian Rice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Gourmet Meat Stew",
+            "image": "https://dl.airtable.com/XOBh4j1CSXql08hCxxWF_40px-BotW_Gourmet_Meat_Stew_Icon.png%3Fversion%3Da53b8e32d279af25541c87b3f4089a62",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The meat has simmered for so long it melts in your mouth. A true bucket-list meal!",
+            "ingredients": "Tabantha Wheat, Fresh Milk, Goat Butter, Raw Gourmet Meat",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Gourmet Poultry Curry",
+            "image": "https://dl.airtable.com/0nSkhcYTTmeIzvK8wAjg_40px-BotW_Gourmet_Poultry_Curry_Icon.png%3Fversion%3D51e0dd392ab1d9e9b3c79cbc637cac75",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Once served in Hyrule Castle,  the poultry used in this dish is of immensely high quality.",
+            "ingredients": "Raw Whole Bird, Goron Spice, Hylian Rice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Gourmet Poultry Pilaf",
+            "image": "https://dl.airtable.com/g8jUaOF5TEi48cKIkDgD_40px-BotW_Gourmet_Poultry_Pilaf_Icon.png%3Fversion%3D56d5eb99536b748f04f889f6c752fd39",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Made with the highest-quality poultry,  every bite of this pilaf floods your mouth with flavor.",
+            "ingredients": "Raw Whole Bird, Hylian Rice, Goat Butter, Bird Egg",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Gourmet Spiced Meat Skewer",
+            "image": "https://dl.airtable.com/CKm6ppyUQYCEVm0ILcTJ_40px-BotW_Gourmet_Spiced_Meat_Skewer_Icon.png%3Fversion%3Da0c791ebfa3579a9e4eaec9b3d4a3865",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The rich aroma and juicy texture of this high-quality meat puts it in a league of its own.",
+            "ingredients": "Raw Gourmet Meat, Goron Spice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Hearty Clam Chowder",
+            "image": "https://dl.airtable.com/40cwQhQVRPmelKUU7EAt_40px-BotW_Clam_Chowder_Icon.png%3Fversion%3D6ed3508c90b7b7733720f6707b0f040d",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The nutritional value of hearty blueshell snail combines with butter and milk in a rich soup.",
+            "ingredients": "Fresh Milk, Tabantha Wheat, Goat Butter, Hearty Blueshell Snail",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Hearty Salmon Muenière",
+            "image": "https://dl.airtable.com/QHzKRit6T5iC4Wl9VypR_40px-BotW_Salmon_Mueni%25C3%25A8re_Icon.png%3Fversion%3D21ea0e95c95222f171ae83d8f784ce2c",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The crispy skin of this fried hearty salmon puts its texture in a class all its own.",
+            "ingredients": "Tabantha Wheat, Hearty Salmon, Goat Butter",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Herb Sauté",
+            "image": "https://dl.airtable.com/ixvzeWPgQMWnWcVO5xnh_40px-BotW_Herb_Saut%25C3%25A9_Icon.png%3Fversion%3Dadc25e9b065b470fdcdbf710aadc1098",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A fragrant mixture of herbs and spices. It's easily recognized by its unique aroma.",
+            "ingredients": "Any Flower or Herb, Goron Spice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Honey Crepe",
+            "image": "https://dl.airtable.com/dgJVILScSBinFYXEZqca_40px-BotW_Honey_Crepe_Icon.png%3Fversion%3D2465b837a4a84ca4d7f2c98733077e3e",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Honey has been drizzled over thin crepes to bring out their natural sweetness and flavor.",
+            "ingredients": "Fresh Milk, Bird Egg, Tabantha Wheat, Cane Sugar, Courser Bee Honey",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Honeyed Fruits",
+            "image": "https://dl.airtable.com/JLk966neSQC8D1r1mOF0_40px-BotW_Honeyed_Fruits_Icon.png%3Fversion%3Dd5b930dd50a4a0838f0254e296d48cc1",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A dish that combines the thick sweetness of honey with the acidity of sour fruits.",
+            "ingredients": "Courser Bee Honey, Fleet-Lotus Seeds, Hearty Durian, Hydromelon, Mighty Bananas, Voltfruit, Palm Fruit, Spicy Pepper, Wildberry",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Hot Buttered Apple",
+            "image": "https://dl.airtable.com/FxBlDkkiTkqmWLf05pc2_40px-BotW_Hot_Buttered_Apple_Icon.png%3Fversion%3Df0210039247c7225150f3282f1b69018",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The apple's sweetness has been enhanced by smothering it with butter and baking it.",
+            "ingredients": "Apple, Goat Butter",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Meat & Mushroom Skewer",
+            "image": "https://dl.airtable.com/VUMeQPNNSLyG1TW6dJZM_40px-BotW_Meat_%2526_Mushroom_Skewer_Icon.png%3Fversion%3Da5f6ab1b52211254de80e2d34d56e47d",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A filling dish made by grilling various mountain ingredients with either Steak or Bird Meat.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle, Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Meat and Rice Bowl",
+            "image": "https://dl.airtable.com/cRJVWiBmSgWvbXKKat58_40px-BotW_Meat_and_Rice_Bowl_Icon.png%3Fversion%3D8d1f13eaeed38ece505350bfbb5c8b16",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This dish of rice and lightly seared meat is a mainstay all throughout Hyrule.",
+            "ingredients": "Hylian Rice, Rock Salt, Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Meat and Seafood Fry",
+            "image": "https://dl.airtable.com/Oc8gOs4RL3xNaNQH8Y6A_40px-BotW_Meat_and_Seafood_Fry_Icon.png%3Fversion%3Deb5444ca94f3db9200c5b8560e3a46e1",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A filling dish made by cooking fresh seafood and meat together.",
+            "ingredients": "Any Meat, Any Seafood",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Meat Curry",
+            "image": "https://dl.airtable.com/2XxMy7nETDSHis5pyuM8_40px-BotW_Meat_Curry_Icon.png%3Fversion%3Db7dc4b028d0bb1c48d2aa4c8efcc93da",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The heat from the spice allows you to enjoy the large portion of the meat's savoriness.",
+            "ingredients": "Raw Meat, Hylian Rice, Goron Spice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Meat Pie",
+            "image": "https://dl.airtable.com/swAoSKOPSeqgH7cpYNY8_40px-BotW_Meat_Pie_Icon.png%3Fversion%3Dffcea936724f1ffc70e9b10e3dc9ab0a",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "You'll need an extra napkin to deal with this juicy pie of perfectly baked minced meat.",
+            "ingredients": "Tabantha Wheat, Goat Butter, Rock Salt, Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Meat Skewer",
+            "image": "https://dl.airtable.com/twAnbd52QiW06wgJHDzw_40px-BotW_Meat_Skewer_Icon.png%3Fversion%3D696c3f7a399414be35585388ae350013",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A juicy,  filling snack made by grilling small chunks of meat on a skewer.",
+            "ingredients": "Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Copious Meat Skewers",
+            "image": "https://dl.airtable.com/xfTCRi1Sp2XdyIRQ60XP_40px-BotW_Copious_Meat_Skewers_Icon.png%3Fversion%3D76b429dd4f8b92d8fb658a7174bdc8f6",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Just shove a bunch of meat on to a skewer and you're good to go.",
+            "ingredients": "Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Meat Stew",
+            "image": "https://dl.airtable.com/dJaKsZe1STq6WaFsZGpp_40px-BotW_Meat_Stew_Icon.png%3Fversion%3Dff2868050ba923cfc9f0575d417b4c60",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The hearty meat in this mainstay dish leaves bellies satisfied all throughout Hyrule.",
+            "ingredients": "Raw Meat, Raw Bird Drumstick",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Meaty Rice Balls",
+            "image": "https://dl.airtable.com/YGMtk4sjQt23d7MLBNK9_40px-BotW_Meaty_Rice_Balls_Icon.png%3Fversion%3Df0751db085497d891143d303cc596df4",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The sweet and spicy meat stuffed into these rice balls will keep you full for some time.",
+            "ingredients": "Hylian Rice, Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Monster Cake",
+            "image": "https://dl.airtable.com/YWJTqRdBRuSrDjC5OPX3_40px-BotW_Monster_Cake_Icon.png%3Fversion%3D2c6f2af0e7df85bbf81677d7adc7dc31",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "It's said that once you have a taste of this cake,  you'll never forget its sweetness.",
+            "ingredients": "Tabantha Wheat, Cane Sugar, Goat Butter, Monster Extract",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Monster Curry",
+            "image": "https://dl.airtable.com/Q2NUhW0SPC3r5J7QAGXg_40px-BotW_Monster_Curry_Icon.png%3Fversion%3Db29beadbad874258365bcee4290018d1",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This unusual take on curry uses monster extract and doesn't rely on spices.",
+            "ingredients": "Hylian Rice, Goron Spice, Monster Extract",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Monster Rice Balls",
+            "image": "https://dl.airtable.com/CjtoKOFER4SM1eRs8x9S_40px-BotW_Monster_Rice_Balls_Icon.png%3Fversion%3De84a979ca9660e5fdd4b4f077d2f6ca3",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Rice balls flavored with monster extract. Their unique aroma is not for everyone.",
+            "ingredients": "Hylian Rice, Rock Salt, Monster Extract",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Monster Soup",
+            "image": "https://dl.airtable.com/20InZl3dQ3GSe4ymy7vr_40px-BotW_Monster_Soup_Icon.png%3Fversion%3D39add28ad6f1dff156dac7b05f928601",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Using monster extract as a base,  this soup's distinct gaminess is either loved or hated.",
+            "ingredients": "Goat Butter, Fresh Milk, Tabantha Wheat, Monster Extract",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Monster Stew",
+            "image": "https://dl.airtable.com/V6kUbGUWRoGfWKOfU6FA_40px-BotW_Monster_Stew_Icon.png%3Fversion%3Da980a0ddddc1a4f011fcd9f1c68f3944",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Meat and seafood simmered in monster extract. A savory dish despite its ingredients.",
+            "ingredients": "Monster Extract, Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird, Hearty Bass, Hyrule Bass, Staminoka Bass, Voltfin Trout, Chillfin Trout, Sizzlefin Trout, Stealthfin Trout, Sanke Carp, Mighty Carp, Armored Carp, Hearty Salmon, Mighty Porgy, Armored Porgy, Sneaky River Snail, Hearty Blueshell Snail, Ironshell Crab, Razorclaw Crab, Bright-Eyed Crab",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Mushroom Omelet",
+            "image": "https://dl.airtable.com/VduAe45PTqOAFpvPMCfn_40px-BotW_Mushroom_Omelet_Icon.png%3Fversion%3Da2bddcb11773970373e43c0a670df776",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The fluffy texture of this omelet is one of the great joys of this dish,  as well as life.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle, Rock Salt, Goat Butter, Bird Egg",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Mushroom Rice Balls",
+            "image": "https://dl.airtable.com/NMjkRnNFQIuI7iIZi3mF_40px-BotW_Mushroom_Rice_Balls_Icon.png%3Fversion%3D2bd6e0c8392984c14ad58b65fb319ca6",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The aroma of the mushrooms tickles your nose as you peel back the leafy wrapping.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle, Hylian Rice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Mushroom Risotto",
+            "image": "https://dl.airtable.com/T5nxqdTxTSehauDieGH2_40px-BotW_Mushroom_Risotto_Icon.png%3Fversion%3Dedf47c503605893520f4d8f2c0db475a",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The tantalizing aroma of mushrooms and butter beckons you to the table.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle, Rock Salt, Goat Butter, Hylian Rice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Mushroom Skewer",
+            "image": "https://dl.airtable.com/YwmbO3hStaY9OV1jY1HJ_40px-BotW_Mushroom_Skewer_Icon.png%3Fversion%3D42287da71f78590084229557a94cb228",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This simple mushroom-packed skewer has its colorful presentation to thank for its appeal.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Copious Mushrooms Skewers",
+            "image": "https://dl.airtable.com/i3JprEiBTAeECEmnPt8S_40px-BotW_Copious_Mushrooms_Skewers_Icon.png%3Fversion%3De1cbfd83d9b031d298f15f7b59175541",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Fans of fungal cuisine can't resist this simple mushroom-skewer dish. Very filling.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Nutcake",
+            "image": "https://dl.airtable.com/ggomykXeTbioDnNUSUsp_40px-BotW_Nutcake_Icon.png%3Fversion%3D215f4359e1ae2ceab54193c8da574c20",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Forest nuts give this cake a pleasant texture and a simple,  understated sweetness.",
+            "ingredients": "Tabantha Wheat, Cane Sugar, Goat Butter, Acorn, Chickaloo Tree Nut",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Omelet",
+            "image": "https://dl.airtable.com/qz2fNf3TPGLEZwV7LdaX_40px-BotW_Omelet_Icon.png%3Fversion%3D29eec093a7737fee5b71871b6686ed0a",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This simple dish is common all over Hyrule. Simply fry egg until it's nice and plump.",
+            "ingredients": "Bird Egg",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Pepper Seafood",
+            "image": "https://dl.airtable.com/zxKePjcYTNEHtJF4KZgA_40px-BotW_Pepper_Seafood_Icon.png%3Fversion%3D738619a19b9ea75411093096164fe5c6",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The pepper seeds grilled with this seafood draw out its taste and pleasant aroma.",
+            "ingredients": "Spicy Pepper, Any Seafood",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Plain Crepe",
+            "image": "https://dl.airtable.com/b978ieUTSMWwQoGbn08b_40px-BotW_Plain_Crepe_Icon.png%3Fversion%3D0aec51f243c4bcda2907b5897ce04e65",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The simplicity of this dish lets the flavor of its ingredients shine.",
+            "ingredients": "Fresh Milk, Cane Sugar, Tabantha Wheat, Bird Egg, Goat Butter",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Porgy Meunière",
+            "image": "https://dl.airtable.com/GpWOcHhqSiKVY63NDCvk_40px-BotW_Porgy_Meuni%25C3%25A8re_Icon.png%3Fversion%3Dbb2c6b2ec809cca9142fc48e8d162b38",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Popular among residents of coastal regions,  this juicy porgy is a delish dish.",
+            "ingredients": "Goat Butter, Tabantha Wheat, Mighty Porgy, Armored Porgy",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Poultry Curry",
+            "image": "https://dl.airtable.com/DB6kETQXTHiZnNjG724w_40px-BotW_Poultry_Curry_Icon.png%3Fversion%3D0b1f648b189661e4f3180dd9649cfbca",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The savory meat pairs well with the aroma of spice in this common curry.",
+            "ingredients": "Raw Bird Drumstick, Hylian Rice, Goron Spice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Poultry Pilaf",
+            "image": "https://dl.airtable.com/LD8YrrvQASThEJbRwAgQ_40px-BotW_Poultry_Pilaf_Icon.png%3Fversion%3Dd86c1d55bee5ea78b3d56066f1302611",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Sautéed Hylian rice steamed in poultry broth. Cook on low heat until the rice is fluffy.",
+            "ingredients": "Raw Bird Drumstick, Hylian Rice, Bird Egg, Goat Butter",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Prime Meat and Rice Bowl",
+            "image": "https://dl.airtable.com/QyAyOYkfRFCqyW6GRZLU_40px-BotW_Prime_Meat_and_Rice_Bowl_Icon.png%3Fversion%3Dadb56d91a7aa8465f335e1f274f740ad",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This bowl is loaded with high-quality meat. Your hunt for a serious meal ends here.",
+            "ingredients": "Raw Prime Meat, Hylian Rice, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Prime Meat and Seafood Fry",
+            "image": "https://dl.airtable.com/eBdkIzfeQi2B1Q52XQuP_40px-BotW_Prime_Meat_and_Seafood_Fry_Icon.png%3Fversion%3D95d115a694e383c69a6a1d6822f15d05",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This comfort dish is made with choice cuts of meat and seafood.",
+            "ingredients": "Any Seafood, Raw Prime Meat",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Prime Meat Curry",
+            "image": "https://dl.airtable.com/bXUPMAqQXeXr0B37FwJJ_40px-BotW_Prime_Meat_Curry_Icon.png%3Fversion%3D79f5cb559c25b2eba6d3272211f86364",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The high-quality meat in this curry has given it a deeper taste than most other curries.",
+            "ingredients": "Raw Prime Meat, Hylian Rice, Goron Spice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Prime Meat Stew",
+            "image": "https://dl.airtable.com/sfpAmRuiTB2tUMvl03Fx_40px-BotW_Prime_Meat_Stew_Icon.png%3Fversion%3D904f490d31c46c7ed1b1bcfa97fa534f",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Letting the large portions of choice cuts of meat simmer brought out their savoriness.",
+            "ingredients": "Tabantha Wheat, Goat Butter, Fresh Milk, Raw Prime Meat",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Prime Poultry Curry",
+            "image": "https://dl.airtable.com/Rw2padNXT5WsS2fRwDQK_40px-BotW_Prime_Poultry_Curry_Icon.png%3Fversion%3D55066771089e808bcf9f543668d9944a",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The secret to this curry's flavor is taking it off the heat while you add the spices.",
+            "ingredients": "Raw Bird Thigh, Goron Spice, Hylian Rice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Prime Poultry Pilaf",
+            "image": "https://dl.airtable.com/LZoVpW13T163cc6zEDM6_40px-BotW_Prime_Poultry_Pilaf_Icon.png%3Fversion%3D36cc3bb556038905f0f77b4b2fbfe1fc",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The rice permeates the savory taste of the poultry in this Gerudo-region favorite.",
+            "ingredients": "Raw Bird Thigh, Hylian Rice, Bird Egg, Goat Butter",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Prime Spiced Meat Skewer",
+            "image": "https://dl.airtable.com/9jszaKFsTreFav2dVR6r_40px-BotW_Prime_Spiced_Meat_Skewer_Icon.png%3Fversion%3D4b81f070fa3e7cb46ae2b5ed7ead8b15",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The simple preparation of this steak dish belies its complex taste profile.",
+            "ingredients": "Raw Prime Meat, Goron Spice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Pumpkin Pie",
+            "image": "https://dl.airtable.com/z08xNo6sTDOakoVHSHC0_40px-BotW_Pumpkin_Pie_Icon.png%3Fversion%3Daeb299d7e3ae729563b56a13f72dec0d",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The intense sweetness of fortified pumpkins makes this dessert popular among children.",
+            "ingredients": "Fortified Pumpkin, Tabantha Wheat, Cane Sugar, Goat Butter",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Pumpkin Stew",
+            "image": "https://dl.airtable.com/hsJmuJBMSGiUg3f9Gn9U_40px-BotW_Pumpkin_Stew_Icon.png%3Fversion%3D22fe56b2acb457d36963dff8f700f679",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Simply simmer a fortified pumpkin to make this dish. A favorite in Kakariko Village.",
+            "ingredients": "Fortified Pumpkin, Tabantha Wheat, Goat Butter, Fresh Milk",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Rock-Hard Food",
+            "image": "https://dl.airtable.com/PLtXXSxQ52c2duPrEXnX_50px-BotW_Rock-Hard_Food_Icon.png%3Fversion%3D3d6eeff4153008dbc079f0eddc32b2a4",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A dish gone awry after adding the wrong ingredient. Chewing your way through this won't be fun,  but it will fill you up when you're between a rock and a hard place.",
+            "ingredients": "Wood or ore",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Salmon Risotto",
+            "image": "https://dl.airtable.com/Kee7sbsTToG1shen01ct_40px-BotW_Salmon_Risotto_Icon.png%3Fversion%3Df827a3575df0d7fe304010d013702991",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The rice used in this rich risotto permeates the light flavor of the salmon.",
+            "ingredients": "Hearty Salmon, Hylian Rice, Goat Butter, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Salt-Grilled Crab",
+            "image": "https://dl.airtable.com/4CtvpJadTzKGx5jKwpRc_40px-BotW_Salt-Grilled_Crab_Icon.png%3Fversion%3Dcf0313d426bff3ef9f7356e5231a116d",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Nine out of ten fishermen agree: crab is best enjoyed grilled and with just a bit of salt.",
+            "ingredients": "Rock Salt, Ironshell Crab, Razorclaw Crab, Bright-Eyed Crab",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Salt-Grilled Fish",
+            "image": "https://dl.airtable.com/HumCpbSQ3qbnT9tGw4VE_50px-BotW_Salt_Grilled_Fish_Icon.png%3Fversion%3D20fa2d65880a0fc073efe1888573133b",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A simple dish made by rolling a whole fish in natural rock salt before grilling it.",
+            "ingredients": "Rock Salt, Sneaky River Snail, Hearty Blueshell Snail, Hearty Bass, Hyrule Bass, Staminoka Bass, Sanke Carp, Mighty Carp, Armored Carp, Hearty Salmon, Mighty Porgy, Armored Porgy, Voltfin Trout, Chillfin Trout, Sizzlefin Trout, Stealthfin Trout",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Salt-Grilled Gourmet Meat",
+            "image": "https://dl.airtable.com/9YLNJ21nSLyQEh5KGf5N_40px-BotW_Salt-Grilled_Gourmet_Meat_Icon.png%3Fversion%3D23601506cacc6c09a3570dc91662268c",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This lavish grilled dish makes liberal use of high-quality cuts of meat.",
+            "ingredients": "Rock Salt, Raw Gourmet Meat",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Salt-Grilled Greens",
+            "image": "https://dl.airtable.com/oM3NZI3wQLao5dS2fcWR_40px-BotW_Salt-Grilled_Greens_Icon.png%3Fversion%3Da6dd17133b133063f5b1ef06d118903b",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A health-boosting dish made with leafy greens and a touch of salt.",
+            "ingredients": "Rock Salt, Any Vegetable, Any Flower or Herb",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Salt-Grilled Meat",
+            "image": "https://dl.airtable.com/jY80Q4tFS7a2GhIaxNpE_40px-BotW_Salt-Grilled_Meat_Icon.png%3Fversion%3Daf02db6921eb35f1036be3511a7f5ce9",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Short on ingredients? Just rub some meat in salt and cook it for a simple,  tasty dish.",
+            "ingredients": "Rock Salt, Raw Meat, Raw Bird Drumstick",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Salt-Grilled Mushrooms",
+            "image": "https://dl.airtable.com/dXb7I33TSGp6grxs3jiJ_40px-BotW_Salt-Grilled_Mushrooms_Icon.png%3Fversion%3D0b3240a39355d103ec773a1a6840106b",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A basic mushroom dish made by lightly salting mushrooms and grilling them.",
+            "ingredients": "Rushroom, Sunshroom, Zapshroom, Ironshroom, Chillshroom, Razorshroom, Endura Shroom, Hylian Shroom, Silent Shroom, Stamella Shroom, Hearty Truffle, Big Hearty Truffle, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Salt-Grilled Prime Meat",
+            "image": "https://dl.airtable.com/FnUQLPEqQCI0yQM4xvgs_40px-BotW_Salt-Grilled_Prime_Meat_Icon.png%3Fversion%3Dafb157bcd69a4192b1985be3f034475f",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A simple yet exquisite dish made by grilling high-quality meat on top of rock salt.",
+            "ingredients": "Rock Salt, Raw Prime Meat",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Sautéed Nuts",
+            "image": "https://dl.airtable.com/4MycALqqRYGIpnccyj3K_40px-BotW_Saut%25C3%25A9ed_Nuts_Icon.png%3Fversion%3D687dd4821a14f7dcec867abfe8447eb2",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "These sautéed tree seeds are the perfect snack for the busy adventurer on the go!",
+            "ingredients": "Acorn, Chickaloo Tree Nut",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Seafood Curry",
+            "image": "https://dl.airtable.com/RK6CaFXzSpqHfiovFAIK_40px-BotW_Seafood_Curry_Icon.png%3Fversion%3De34da8cd2432fcb1eab134084764e51e",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This dish brims with treasures from the sea. Its spice packs a kick,  so it's not for kids.",
+            "ingredients": "Goron Spice, Hylian Rice, Hearty Blueshell Snail, Mighty Porgy, Armored Porgy",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Seafood Fried Rice",
+            "image": "https://dl.airtable.com/NhJcBVqsS46pg4iAKJ6f_40px-BotW_Seafood_Fried_Rice_Icon.png%3Fversion%3De83bd5bba2b3ba7a5628b7c21d8d39aa",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Various seafood has been sautéed with rice. The stronger the flame,  the tastier the dish!",
+            "ingredients": "Hylian Rice, Rock Salt, Hearty Blueshell Snail, Mighty Porgy, Armored Porgy",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Seafood Meunière",
+            "image": "https://dl.airtable.com/lxbrBHXS2OgP5kouz2Yj_40px-BotW_Seafood_Meuni%25C3%25A8re_Icon.png%3Fversion%3D9ed7a5352ce6323583b0d54a6dcd9d8e",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Rich butter flanks fresh seafood. The secret ingredient is lots and lots of love.",
+            "ingredients": "Any Seafood (except Porgy or Salmon, Tabantha Wheat, Goat Butter",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Seafood Paella",
+            "image": "https://dl.airtable.com/Hewg3hQhTaaiZDGJE4QK_40px-BotW_Seafood_Paella_Icon.png%3Fversion%3D927fb02a1dc0827b405c6843e42e359f",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "No fisherman's birthday bash would be complete without this top-shelf seafood dish.",
+            "ingredients": "Hearty Blueshell Snail, Hylian Rice, Mighty Porgy, Armored Porgy",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Seafood Rice Balls",
+            "image": "https://dl.airtable.com/35zDEsv5Rp8MNOigfKqQ_40px-BotW_Seafood_Rice_Balls_Icon.png%3Fversion%3D48e5d4ee9a15d1091b76cb10ce02884f",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Stuffed with aromatic seafood,  the flavor can vary by ingredients but never disappoints.",
+            "ingredients": "Hylian Rice, Any Seafood",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Seafood Skewer",
+            "image": "https://dl.airtable.com/s6wafV8SqaOMwGUwltBu_40px-BotW_Seafood_Skewer_Icon.png%3Fversion%3D6be9bf4402b032bf3c58ea627fb24738",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The natural water in this medley of seafaring creatures makes for a delicious broth.",
+            "ingredients": "Ironshell Crab, Razorclaw Crab, Bright-Eyed Crab, Sneaky River Snail, Hearty Blueshell Snail",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Simmered Fruit",
+            "image": "https://dl.airtable.com/B4JhtTXSqimAQLEimDi3_50px-BotW_Simmered_Fruit_Icon.png%3Fversion%3D118946dab960e20a35ac4efb26f0c1cb",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This sweet dish is made by heaping tasty fruits into a pan and simmering until tender.",
+            "ingredients": "Apple, Fleet-Lotus Seeds, Hearty Durian, Hydromelon, Mighty Bananas, Palm Fruit, Spicy Pepper, Voltfruit, Wildberry",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Copious Simmered Fruit",
+            "image": "https://dl.airtable.com/KSAoxRtRoeD5xdynrTfw_40px-BotW_Copious_Simmered_Fruit_Icon.png%3Fversion%3D073a996f75528c2028afd166be894084",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The flavors of the various fruits in this simmered dish exist in perfect harmony.",
+            "ingredients": "Apple, Fleet-Lotus Seeds, Hearty Durian, Hydromelon, Mighty Bananas, Palm Fruit, Spicy Pepper, Voltfruit, Wildberry",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Spiced Meat Skewer",
+            "image": "https://dl.airtable.com/nKtLIAGDQmSyBGwjtTjm_40px-BotW_Spiced_Meat_Skewer_Icon.png%3Fversion%3D85c34d5af7d5833a2fa8e2e489fb48db",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A special Goron spice covers up the scent of the meat,  allowing its flavor to shine.",
+            "ingredients": "Goron Spice, Raw Meat",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Spicy Pepper Steak",
+            "image": "https://dl.airtable.com/zjtslVzZQ9GF1NbRESSl_40px-BotW_Pepper_Steak_Icon.png%3Fversion%3Df98c8a12fb336b895b93494d142cf6ab",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A dish made by cooking meat in crushed peppers,  suppressing the gamy taste while accentuating its flavor.",
+            "ingredients": "Spicy Pepper, Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Spicy Sautéed Peppers",
+            "image": "https://dl.airtable.com/ToGkFoKMTOBunND8G9nY_40px-BotW_Saut%25C3%25A9ed_Peppers_Icon.png%3Fversion%3D5d7168d323f75d7947c9944f153d2210",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The spiciness of these sautéed peppers has been broken by the heat for a sweeter taste.",
+            "ingredients": "Spicy Pepper",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Steamed Fish",
+            "image": "https://dl.airtable.com/J406qgtgSKqkasM0mKav_40px-BotW_Steamed_Fish_Icon.png%3Fversion%3D0f90e2566d7d7672e496372a8457d525",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A refined dish made by wrapping a fresh fish in fragrant wild greens and cooking it.",
+            "ingredients": "Any Vegetable, Any Flower or Herb, Any Seafood",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Steamed Fruit",
+            "image": "https://dl.airtable.com/bzPt6CipT52YMxyH31l4_40px-BotW_Steamed_Fruit_Icon.png%3Fversion%3D0a87a3712f7d25fb31d8862075732572",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A regional dish made by steaming near-ripened fruits in the leaves of fragrant plants.",
+            "ingredients": "Any Fruit, Any Vegetable, Any Flower or Herb",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Steamed Meat",
+            "image": "https://dl.airtable.com/S403IWcdQiYABT8EVVxe_40px-BotW_Steamed_Meat_Icon.png%3Fversion%3D4aafe47755b058a117d8c5871b268299",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This meat dish has been wrapped in fragrant leaves and steamed to preserve its moisture.",
+            "ingredients": "Any Meat, Any Flower or Herb, Any Vegetable (except Pumpkin",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Steamed Mushrooms",
+            "image": "https://dl.airtable.com/v1MA6BXKQMa4SiaQ8c3I_40px-BotW_Steamed_Mushrooms_Icon.png%3Fversion%3Dfbce7053d618b4798ed8ca710f6b0c6b",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "A healthy vegetable dish achieved by steaming mushrooms in plant leaves.",
+            "ingredients": "Any Mushroom, Any Vegetable, Any Flower or Herb",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Tough Meat-Stuffed Pumpkin",
+            "image": "https://dl.airtable.com/34qG43XQvyANZwh522VO_40px-BotW_Meat-Stuffed_Pumpkin_Icon.png%3Fversion%3Db5e9f5ca2c86fce9e0ea384b9b8dcdd3",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Grants a low-level defense boost. This hollow,  meat-filled fortified pumpkin is a local specialty or Kakariko Village.",
+            "ingredients": "Fortified Pumpkin, Raw Bird Thigh, Raw Bird Drumstick, Raw Gourmet Meat, Raw Meat, Raw Prime Meat, Raw Whole Bird",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Vegetable Curry",
+            "image": "https://dl.airtable.com/p9VHRXMCTVK63tplp3DF_40px-BotW_Vegetable_Curry_Icon.png%3Fversion%3Dd4b4668b18abc7c93235b3a95517dff4",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This healthy curry is popular for its mild flavor and moderate spiciness.",
+            "ingredients": "Hylian Rice, Goron Spice, Swift Carrot, Endura Carrot, Fortified Pumpkin",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Vegetable Omelet",
+            "image": "https://dl.airtable.com/p5KQiD78RqiOysqYRa2F_40px-BotW_Vegetable_Omelet_Icon.png%3Fversion%3Daaff2e16e7969030f772d7fc77a31b59",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This home-style dish mixes fluffy eggs with chopped vegetables for nutritional balance.",
+            "ingredients": "Any Vegetable, Any Flower or Herb, Bird Egg, Goat Butter, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Vegetable Risotto",
+            "image": "https://dl.airtable.com/VTLx3x8SuOQxSAnzF3a2_40px-BotW_Vegetable_Risotto_Icon.png%3Fversion%3Db361da1704938f4bd5cdb2cffd1a3c86",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "The sweetness of the ingredients gives this risotto a mild flavor.",
+            "ingredients": "Hylian Rice, Goat Butter, Rock Salt, Fortified Pumpkin, Swift Carrot, Endura Carrot",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Veggie Cream Soup",
+            "image": "https://dl.airtable.com/9i4gl5dS8CGcjWFIhCer_40px-BotW_Veggie_Cream_Soup_Icon.png%3Fversion%3D49cd0a4ef0fda213ae7662efabb38e59",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This creamy soup showcases the sweetness of vegetables in a veritable taste explosion.",
+            "ingredients": "Fresh Milk, Rock Salt, Fortified Pumpkin, Swift Carrot, Endura Carrot",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Veggie Rice Balls",
+            "image": "https://dl.airtable.com/xyg3HzoXSxy7ZIQO2ffr_40px-BotW_Veggie_Rice_Balls_Icon.png%3Fversion%3D337070f92523ee658d24eac8cc8131e9",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "This home-style dish of Kakariko Village is stuffed with the bounty of the mountains.",
+            "ingredients": "Any Vegetable, Any Flower or Herb, Hylian Rice",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Warm Milk",
+            "image": "https://dl.airtable.com/dbZefoSRRI3WfFGyK7Nc_40px-BotW_Warm_Milk_Icon.png%3Fversion%3D7d1531430125f3988f01437ea125ddcb",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Make this by heating up some milk. Drink it before bed to ensure a good night's sleep.",
+            "ingredients": "Fresh Milk",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Wheat Bread",
+            "image": "https://dl.airtable.com/VFBeq9bSiq2qUesOvSCo_40px-BotW_Wheat_Bread_Icon.png%3Fversion%3D72ea48cd69167542957df963badf9e9e",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Made with wheat from the Tabantha region,  this soft,  springy bread smells just heavenly.",
+            "ingredients": "Tabantha Wheat, Rock Salt",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Wildberry Crepe",
+            "image": "https://dl.airtable.com/Zqgn41NTR3igCIgsoIjW_40px-BotW_Wildberry_Crepe_Icon.png%3Fversion%3Db71c9179735d192167d970f256aa0d6e",
+            "class": "Food",
+            "subclass": "Cooked",
+            "description": "Sweet,  tart wildberries are folded into thin,  springy dough to make this dessert.",
+            "ingredients": "Wildberry, Fresh Milk, Cane Sugar, Tabantha Wheat, Bird Egg",
+            "hp": "",
+            "effect": ""
+        },
+        {
+            "name": "Hard-Boiled Egg",
+            "image": "https://dl.airtable.com/GSwPzSviRSkryMnh9vI3_40px-BotW_Hard-Boiled_Egg_Icon.png%3Fversion%3D280f3c6eb915d547265ebe3e00a32863",
+            "class": "Food",
+            "subclass": "Boiled",
+            "description": "A bird egg boiled using water from naturally occurring hot springs. It's popular among children and is easy to make.",
+            "ingredients": "Bird Egg",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Baked Apple",
+            "image": "https://dl.airtable.com/BCa5EVzpRueSnn4m5sGE_40px-BotW_Baked_Apple_Icon.png%3Fversion%3D13e5ee5fb16de7fe56f6fda5de7fa873",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Direct heat has softened and sweetened this apple. Eat it to restore three quarters of a heart.",
+            "ingredients": "Apple",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Baked Fortified Pumpkin",
+            "image": "https://dl.airtable.com/OKkzjiDSQFKQ5o232quk_40px-BotW_Baked_Fortified_Pumpkin_Icon.png%3Fversion%3D38c75495e6b0f4ad78035c119ccdabd4",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This fortified pumpkin has been roasted whole. The hard rind serves as a container for the steamed pumpkin flesh inside.",
+            "ingredients": "Fortified Pumpkin",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Baked Palm Fruit",
+            "image": "https://dl.airtable.com/EWq679TtRnqfQ0QS4I3b_40px-BotW_Baked_Palm_Fruit_Icon.png%3Fversion%3D9c8caca03b26538921d3ffd192b63752",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This palm fruit was broiled with direct heat,  resulting in steamed flesh inside the rind. Best served at the moment the juices emerge while roasting.",
+            "ingredients": "Palm Fruit",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Blackened Crab",
+            "image": "https://dl.airtable.com/Sit4E10ZQBW5wFeZk1ZT_40px-BotW_Blackened_Crab_Icon.png%3Fversion%3D91c24cfba77a2a0f3696b70f94a7daee",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A whole crab slow-roasted in its shell. The soft,  flaky flesh pairs nicely with the scent of the charred shell for a meal that assaults all five of your senses in all the best ways.",
+            "ingredients": "Ironshell Crab, Razorclaw Crab, Bright-Eyed Crab",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Blueshell Escargot",
+            "image": "https://dl.airtable.com/g4b1FogST5avSDKP1gXi_40px-BotW_Blueshell_Escargot_Icon.png%3Fversion%3Da0a152bb56280beeec78b0a5628d1383",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "The shell of this hearty blueshell snail acted as a tiny slow cooker as it was roasted. Some people love the trademark bitterness of its tail meat.",
+            "ingredients": "Hearty Blueshell Snail",
+            "hp": 4.5,
+            "effect": ""
+        },
+        {
+            "name": "Campfire Egg",
+            "image": "https://dl.airtable.com/Dej2Y3eoSru8SBixSV1a_40px-BotW_Campfire_Egg_Icon.png%3Fversion%3D16d637c6d1c94df9e6cf253bbb8c7bab",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Roasting a bird egg whole in its shell like this helps retain water,  making the egg a bit chewier than usual.",
+            "ingredients": "Bird Egg",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Charred Pepper",
+            "image": "https://dl.airtable.com/DJAUgZgQbm62ZegLwkaw_40px-BotW_Charred_Pepper_Icon.png%3Fversion%3D74d26bc94569d04e2101774279ee01ed",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A pepper that's been gently caressed by an open flame. It's much less spicy now.",
+            "ingredients": "Spicy Pepper",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Acorn",
+            "image": "https://dl.airtable.com/0XyHqIa5TjyhxoDjU4uJ_40px-BotW_Roasted_Acorn_Icon.png%3Fversion%3Dc3cf28bbf9b22ac0cd7b9d1367b85926",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "An acorn cooked with direct ehat. Its nutty armoa has been amplified.",
+            "ingredients": "Acorn",
+            "hp": 0.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Armoranth",
+            "image": "https://dl.airtable.com/soWjVbfmSCuGykyK0xIZ_40px-BotW_Roasted_Armoranth_Icon.png%3Fversion%3D77b565d56ff7d392d8cae13fa817002a",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Simple,  roasted armoranth. The heat has frayed the hard,  chewy fiber just enough to make it easy to eat.",
+            "ingredients": "Armoranth",
+            "hp": 0.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Bass",
+            "image": "https://dl.airtable.com/9b7oANAQBaBdptp4CScA_40px-BotW_Roasted_Bass_Icon.png%3Fversion%3D41f690d77e116f4fbd9729020f24e486",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A bass that's been cooked whole over an open flame. It's flaky and savory smelling. Offers more hearts than the raw version.",
+            "ingredients": "Hyrule Bass, Staminoka Bass",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Hearty Bass",
+            "image": "https://dl.airtable.com/oNZfNfijQNeawYvya7Zw_40px-BotW_Roasted_Hearty_Bass_Icon.png%3Fversion%3Dc0dd593e82765e45a2b73de167ce4a93",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "An open flame has crisped the skin of this hearty bass to perfection. It's a sizable portion and contains just the right amount of fat to create an exceptionally tasty dish.",
+            "ingredients": "Hearty Bass",
+            "hp": 3,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Big Radish",
+            "image": "https://dl.airtable.com/t6uV6WnR8aiTkDtjP09K_40px-BotW_Roasted_Big_Radish_Icon.png%3Fversion%3Dc2f14acbdb62559c1751e321a0dc9f39",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A roasted big hearty radish. To take such a precious vegetable and put it to the fire is decadent in a way.",
+            "ingredients": "Big Hearty Radish",
+            "hp": 6,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Bird Drumstick",
+            "image": "https://dl.airtable.com/vLxSNXMrS8amkN977m2o_40px-BotW_Roasted_Bird_Drumstick_Icon.png%3Fversion%3D353a675cc4e9b4e7a87252ea5b2726ff",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Raw bird drumstick that's been cooked to a crisp,  skin and all. It's devoid of seasoning,  but it has a simple,  accessible taste. Restores more hearts than the raw variety.",
+            "ingredients": "Raw Bird Drumstick",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Bird Thigh",
+            "image": "https://dl.airtable.com/mI8z07rKRcCPA5XWcoew_40px-BotW_Roasted_Bird_Thigh_Icon.png%3Fversion%3D2e7f89362ebbc901e67d1307e83ed744",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Prime meat that's been flame-seared to perfection. The outide is crispy,  but the inside is juicy. Eat it to recover hearts.",
+            "ingredients": "Raw Bird Thigh",
+            "hp": 2.25,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Carp",
+            "image": "https://dl.airtable.com/HjyahKQNi8sE9McrP9Ig_40px-BotW_Roasted_Carp_Icon.png%3Fversion%3Dee0a99a2db6b2877a324415f444a7f16",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Roasting this freshwater carp helped to supress some of its stench,  making it easier to stomach. You can really sink your teeth into the thick,  meaty flesh.",
+            "ingredients": "Sanke Carp, Mighty Carp, Armored Carp",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Hearty Durian",
+            "image": "https://dl.airtable.com/zec8uiuFQkaoB1PT62wn_40px-BotW_Roasted_Hearty_Durian_Icon.png%3Fversion%3Dd7ca52e3d25276a8f3d226e7ca4c7d29",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This hearty durian was roasted whole inside its hard shell. Unfortunately,  roasting it did nothing to remove its distinct odor. Eat it to recover a lot of hearts.",
+            "ingredients": "Hearty Durian",
+            "hp": 4.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Endura Carrot",
+            "image": "https://dl.airtable.com/QrMlmNFFSTui4zK2gjOb_40px-BotW_Roasted_Endura_Carrot_Icon.png%3Fversion%3Dce63853f2ee6ecb6f6d0d74d16ce68e1",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This flame-kissed endura carrot makes for a truly extravagant single-item dish. The fire really brought out its sweetness.",
+            "ingredients": "Endura Carrot",
+            "hp": 3,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Hydromelon",
+            "image": "https://dl.airtable.com/7Xpt8moMSGySWwlYXv4l_40px-BotW_Roasted_Hydromelon_Icon.png%3Fversion%3Df5b2c266039e55df0dc68c86633eb5a6",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This hydromelon was roasted whole for a very soft and flaky inner flesh with a rather intriguing flavor. Now this is your money melon!",
+            "ingredients": "Hydromelon",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Lotus Seeds",
+            "image": "https://dl.airtable.com/zYh1iACMTauIiLlk4sVv_40px-BotW_Roasted_Lotus_Seeds_Icon.png%3Fversion%3Ddce7303b9ca7a8810c1f430c2fd2db5b",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Flame-roasted fleet-lotus seeds. Peel the skin back to get to the soft and flaky center.",
+            "ingredients": "Fleet-Lotus Seeds",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Mighty Bananas",
+            "image": "https://dl.airtable.com/zdCvjPOFQkKLZafSehT6_40px-BotW_Roasted_Mighty_Bananas_Icon.png%3Fversion%3D8c1a126031387c96243119c7fc5d5404",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "These mighty bananas have been roasted whole. Cooking them through has turned the fruit into a sticky,  rich,  aromatic syrup.",
+            "ingredients": "Mighty Bananas",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Mighty Thistle",
+            "image": "https://dl.airtable.com/VHGH6lJBSZyxVx6edlg1_40px-BotW_Roasted_Mighty_Thistle_Icon.png%3Fversion%3D665f6b08bcfc2c110a7111596b4546e9",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Lightly toasted mighty thistle. It has no special effects,  but now that it's been grilled,  the pointy ends go down smooth.",
+            "ingredients": "Mighty Thistle",
+            "hp": 0.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Porgy",
+            "image": "https://dl.airtable.com/3cy0kHi7RxOKqbtUnt3w_40px-BotW_Roasted_Porgy_Icon.png%3Fversion%3D647363d2940563085ed5ae289c858a6f",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "The soft and fluffy texture of this seafaring fish has been enhanced by roasting it over an open fire. The crisp,  aromatic skin is particularly delicious.",
+            "ingredients": "Mighty Porgy, Armored Porgy",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Radish",
+            "image": "https://dl.airtable.com/MORQqY55QyaUYDPJNZMe_40px-BotW_Roasted_Radish_Icon.png%3Fversion%3D325fd14a2cb40c0c6ab9537bb6d71d9e",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A roasted hearty radish. Fragrant and warm,  it has no special effect but will restore hearts.",
+            "ingredients": "Hearty Radish",
+            "hp": 3.75,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Hearty Salmon",
+            "image": "https://dl.airtable.com/CDAqTOpjTjmYpRSahkg6_40px-BotW_Roasted_Hearty_Salmon_Icon.png%3Fversion%3D658aaa6ac1d1fc8b71fbd4582dfc6ec2",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "",
+            "ingredients": "Hearty Salmon",
+            "hp": 4.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Swift Carrot",
+            "image": "https://dl.airtable.com/JUg0OGEBTDSMHLta14Ho_40px-BotW_Roasted_Swift_Carrot_Icon.png%3Fversion%3D180c14310ddda571cadf3de7ac92aff3",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A fragrant swift carrot that's been lightly roasted. It doesn't have any special effects,  but it will restore some health.",
+            "ingredients": "Swift Carrot",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Tree Nut",
+            "image": "https://dl.airtable.com/BGJOifq3QCejNKDtUU1F_40px-BotW_Roasted_Tree_Nut_Icon.png%3Fversion%3D0798faef5bf1baf217028a65119ed4a3",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A tree seed roasted to amplify its fragrance. Gives more hearts that the raw variety.",
+            "ingredients": "Chickaloo Tree Nut",
+            "hp": 0.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Trout",
+            "image": "https://dl.airtable.com/uiATSutQi6keKMEWra3f_40px-BotW_Roasted_Trout_Icon.png%3Fversion%3Dc4d3accbcd37801509abef81e4556a09",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This trout can be found all over Hyrule. Served river-to-table,  it's simply cooked for a soft and flaky flesh with a mild flavor.",
+            "ingredients": "Voltfin Trout, Chillfin Trout, Sizzlefin Trout, Stealthfin Trout",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Voltfruit",
+            "image": "https://dl.airtable.com/6fjxCqWORBqfEyrjubNs_40px-BotW_Roasted_Voltfruit_Icon.png%3Fversion%3D32609427df655bbc9c8774ee171bb134",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This voltfruit from the Gerudo Desert has been charred to really bring out its sweet and sour flavors.",
+            "ingredients": "Voltfruit",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Wildberry",
+            "image": "https://dl.airtable.com/pFBp1xbTHSR0zeLMn6tD_40px-BotW_Roasted_Wildberry_Icon.png%3Fversion%3D092d0c65fe5288661107be07cdbbc292",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This wildberry was prepared over an open flame to alter its sweet taste. It recovers more health than if eaten raw.",
+            "ingredients": "Wildberry",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Roasted Whole Bird",
+            "image": "https://dl.airtable.com/qikQ7H4bTu2BIXTjENXa_40px-BotW_Roasted_Whole_Bird_Icon.png%3Fversion%3D21697a062c3f181582fd5e16196c40a1",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This raw whole bird has been tickled by an open flame to bring out its flavor. Less is more,  as the lack of additional seasoning allows its natural taste to shine.",
+            "ingredients": "Raw Whole Bird",
+            "hp": 4.5,
+            "effect": ""
+        },
+        {
+            "name": "Seared Gourmet Steak",
+            "image": "https://dl.airtable.com/SBmfyObVTVqoq2VhAcNN_40px-BotW_Seared_Gourmet_Steak_Icon.png%3Fversion%3Dff94de17d00ac44657d08ad3691dbe0d",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "The highest quality raw gourmet meat,  just kissed by an open flame. No additional seasonings have been added,  which lets the natural flavor of the meat really shine.",
+            "ingredients": "Raw Gourmet Meat",
+            "hp": 4.5,
+            "effect": ""
+        },
+        {
+            "name": "Seared Prime Steak",
+            "image": "https://dl.airtable.com/0h1QJV2DQmC1wS8mL3DB_40px-BotW_Seared_Prime_Steak_Icon.png%3Fversion%3Db60edd4d2a74116a57df7f0b36e77923",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Raw prime meat cooked over an open flame. The outside is perfectly browned,  while the inside is mouthwateringly juicy.",
+            "ingredients": "Raw Prime Meat",
+            "hp": 2.25,
+            "effect": ""
+        },
+        {
+            "name": "Seared Steak",
+            "image": "https://dl.airtable.com/NR9JaN0QGOcjywCQxPlw_40px-BotW_Seared_Steak_Icon.png%3Fversion%3D8bcc253d05b3727d4ea240bfc473060c",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Raw meat cooked over an open flame. Cooking it has increased its flavor and the number of hearts it provides.",
+            "ingredients": "Raw Meat",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Sneaky River Escargot",
+            "image": "https://dl.airtable.com/77bIjijZQ4OZWLLwwx86_40px-BotW_Sneaky_River_Escargot_Icon.png%3Fversion%3Da6ae4a02aabe286f041aacf64af281e0",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "Sneaky river snail roasted whole in its shell. The meat is soft and a little chewy. Pulling all the meat from the shell in one go fills you with a sense of accomplishment.",
+            "ingredients": "Sneaky River Snail",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Chillshroom",
+            "image": "https://dl.airtable.com/B04q3WGuTaPOFDl7TOYi_40px-BotW_Toasty_Chillshroom_Icon.png%3Fversion%3D455a4fff10fa944ab5c2614647fc4179",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A fully roasted chillshroom. It's evenly toasted and tastes a low better than when eaten raw. Eating it will restore a bit of health.",
+            "ingredients": "Chillshroom",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Endura Shroom",
+            "image": "https://dl.airtable.com/8DmfuYlUQraqZeZAwsN8_40px-BotW_Toasty_Endura_Shroom_Icon.png%3Fversion%3Ddcde2598e30212f2e7d145450361c189",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A toasted endura shroom. It doesn't grant any special effects,  but boy is it tasty!",
+            "ingredients": "Endura Shroom",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Toasted Hearty Truffle",
+            "image": "https://dl.airtable.com/XMzKNM5IQqi38ZkZkDu6_40px-BotW_Toasted_Hearty_Truffle_Icon.png%3Fversion%3D5db27de9a747a3166eda0f00c485e05e",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A hearty truffle with a toasted,  crispy outside and warm,  gooey inside.",
+            "ingredients": "Hearty Truffle",
+            "hp": 3,
+            "effect": ""
+        },
+        {
+            "name": "Toasted Big Hearty Truffle",
+            "image": "https://dl.airtable.com/EakYSgGM6I2DpHR3Owxj_40px-BotW_Toasted_Big_Hearty_Truffle_Icon.png%3Fversion%3D7fac40b739df138c37fe6e136850e235",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This big hearty truffle has been roasted whole. It gets full points for aroma and nutrition. Eat it to recover a lot of hearts.",
+            "ingredients": "Big Hearty Truffle",
+            "hp": 4.5,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Ironshroom",
+            "image": "https://dl.airtable.com/Vrf8UgeLSN2yH0kBjuiK_40px-BotW_Toasty_Ironshroom_Icon.png%3Fversion%3Dfbadefb7b6ad721690c25c5b84ad8bb7",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "An ironshroom exposed to an open flame. Its once-tough exterior is now crunchy and tasty. Restores a bit of health.",
+            "ingredients": "Ironshroom",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Hylian Shroom",
+            "image": "https://dl.airtable.com/Gwbm7rROTc2y7KOi7Zzb_40px-BotW_Toasty_Hylian_Shroom_Icon.png%3Fversion%3D18be52bbb69a6250d9683d6a4b1ddcef",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A Hylian Shroom toasted to perfection. The taste and fragrance are amplified,  restoring more health to its consumer.",
+            "ingredients": "Hylian Shroom",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Razorshroom",
+            "image": "https://dl.airtable.com/jaFtgygSTCOyLY6o59zi_40px-BotW_Toasty_Razorshroom_Icon.png%3Fversion%3D8a19c80b3d3e34e03d317fdd197bf783",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A razorshroom that's been exposed to direct heat. Its sharp exterior has softened considerably. Restores a bit of health.",
+            "ingredients": "Razorshroom",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Rushroom",
+            "image": "https://dl.airtable.com/Z8YshklQvCsSc03Kgi1Q_40px-BotW_Toasty_Rushroom_Icon.png%3Fversion%3Dc48905d0b1a4b8cee75f2f6f9f9d07f8",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A rushroom that's been put to the torch. It may have lost its speedy properties,  but at least it tastes good now.",
+            "ingredients": "Rushroom",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Silent Shroom",
+            "image": "https://dl.airtable.com/wopqMhHjS2Z1ClWzqjGp_40px-BotW_Toasty_Silent_Shroom_Icon.png%3Fversion%3D9f3b39067f478fe47535dba55259a84d",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "A whole,  toasted silent shroom. High heat may have destroyed its soft glow,  but it's now fragrant and taasty.",
+            "ingredients": "Silent Shroom",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Stamella Shroom",
+            "image": "https://dl.airtable.com/7MCvzEseSJ2Ef9iFAn3s_40px-BotW_Toasty_Stamella_Shroom_Icon.png%3Fversion%3De4fe595f369b2671d699e990f47adb78",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "This toasted Stamella Shroom doesn't grant any special effects,  but it will restore one and a half hearts.",
+            "ingredients": "Stamella Shroom",
+            "hp": 1.5,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Sunshroom",
+            "image": "https://dl.airtable.com/rq5q0wgKQPm8Sx39nFVu_40px-BotW_Toasty_Sunshroom_Icon.png%3Fversion%3Dd92b80ce426fd258ee21c0986b828c9a",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "It's always a good idea to keep a fully roasted sunshroom or two on hand just in case. Eat it to recover a bit of health.",
+            "ingredients": "Sunshroom",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Toasty Zapshroom",
+            "image": "https://dl.airtable.com/NeKAgHxKSGp03V44R9eu_40px-BotW_Toasty_Zapshroom_Icon.png%3Fversion%3Dac4c6b4da8a1a5464e18ac0682731190",
+            "class": "Food",
+            "subclass": "Roasted",
+            "description": "It's not very shocking that this fully roasted zapshroom is delicious. Eat it to recover a bit of health.",
+            "ingredients": "Zapshroom",
+            "hp": 0.75,
+            "effect": ""
+        },
+        {
+            "name": "Fairy Tonic",
+            "image": "https://dl.airtable.com/5XpkEF4SQGmkOZddKE6y_40px-BotW_Fairy_Tonic_Icon.png%3Fversion%3D728bbf7bd6b5680b865b967d7466eefc",
+            "class": "Food",
+            "subclass": "Elixir",
+            "description": "This powerful recovery elixir harnesses the power of fairies. It has a sweet fragrance.",
+            "ingredients": "Fairy",
+            "hp": "",
+            "effect": ""
+        }
+    ]
+}

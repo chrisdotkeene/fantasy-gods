@@ -1,9 +1,21 @@
-<div class="input-group mb-3 mt-3">
-  <input type="text" class="form-control" placeholder="Search ingredients" (keyup.enter)="getRecipesFromIngredients()" [(ngModel)]="ingredient">
-  <div class="input-group-append">
-    <button type="submit" class="btn btn-primary" (click)="getRecipesFromIngredients()">Search</button>
+<div class="input-group m-2 two-across">
+  <div>
+    <input type="text" class="form-control" placeholder="Search ingredients" (keyup.enter)="getRecipesFromIngredients()" [(ngModel)]="ingredient">
+  </div>
+  <div>
+    <button class="btn btn-primary" (click)="getRecipesFromIngredients()">Search</button>
   </div>
 </div>
-<div class="row pt-2">
-  <app-recipes class="col" [recipes]="recipes | async" (clicked)="sortBy($event)"></app-recipes>
+<!-- <div class="input-group my-3">
+  <input type="text" class="form-control" placeholder="Search ingredients" (keyup.enter)="getRecipesFromIngredients()" [(ngModel)]="ingredient">
+  <div class="input-group-append">
+    <button class="btn btn-primary" (click)="getRecipesFromIngredients()">Search</button>
+  </div>
+</div> -->
+
+<div class="pt-2">
+  <app-recipes [recipes]="recipes | async" (clicked)="sortBy($event)"></app-recipes>
 </div>
+
+
+<!-- <app-recipes-effects class="col" [effects]="recipeEffects | async"></app-recipes-effects> -->

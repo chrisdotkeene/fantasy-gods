@@ -1,15 +1,16 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-recipes-effects',
   templateUrl: './recipes-effects.component.html',
   styleUrls: ['./recipes-effects.component.css']
 })
-export class RecipesEffectsComponent implements OnInit {
+export class RecipesEffectsComponent {
+  @Input() effects: string | undefined;
+  @Output() clicked = new EventEmitter<string>();
 
-  constructor() { }
-
-  ngOnInit() {
+  sortByCategory(category: string) {
+    this.clicked.emit(category);
   }
 
 }

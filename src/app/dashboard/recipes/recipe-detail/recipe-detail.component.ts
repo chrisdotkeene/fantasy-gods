@@ -1,9 +1,10 @@
-import { Food } from './../../models/food';
-import { AppService } from './../../app.service';
 import { tap, pluck, switchMap } from 'rxjs/operators';
 import { Observable } from 'rxjs/internal/Observable';
 import { Component } from '@angular/core';
-import { ActivatedRoute, Params } from '../../../../node_modules/@angular/router';
+import { ActivatedRoute, Params } from '@angular/router';
+
+import { Food } from './../../../models/food';
+import { AppService } from './../../../app.service';
 
 @Component({
   selector: 'app-recipe-detail',
@@ -19,7 +20,7 @@ export class RecipeDetailComponent {
       pluck<Params, string>('recipeId'),
       // tap(params => console.log('Got new value for params', params)),
       switchMap(id => appService.getRecipeDetail(id)),
-      tap(params => console.log('Got new value for params2', params))
+      tap(params => console.log('Got new value for params2 ', params))
     );
   }
 }
